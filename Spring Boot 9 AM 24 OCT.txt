@@ -1,0 +1,5396 @@
+
+
+
+
+
+   Dilip Singh
+
+   	12 years + Java : backend Developer
+
+   			Spring, Spring Boot , Quarkus , Micro Services 
+
+
+   Trainig: 
+   --------			
+
+   	Spring,	Spring Boot & Micro Services 	
+
+   				How I am working, Real Time Oriented Examples 
+
+   				@DilipItAcademy
+
+    myth vs Reality
+
+
+   Job Seeker : 
+   			 Spring , Spring Boot & Micro Services
+
+   			 need : exusting  
+
+   	Java Developer : 
+   			100% required knowledge of frameworks.
+
+   			Open Market : 
+
+   		Frame work: 
+   		
+   		programming language -> need of Framework? 	
+
+   		python : Django ...
+   		.net ->  FW 
+
+   		Java : 
+   			what are 
+
+   					Spring  & Spring Boot > Market
+   					Struts
+   					hibernate
+   					Quarkus : Slowly popularity -> Spring Boot 
+   					Micronut : 
+   					etc... 
+
+   		When we are good in one area, practical -> Work on anywhere. 
+
+   		Develop :  Programming lang + Framewrok
+
+   					Front End : 
+   							HTML, CSS, JAVA SCRIPT -> UI devlopemnt
+
+   						Frameworks : 	ReactJs, angularjs , etc.. 
+
+   		Framework : Rapid Developemnt 
+
+
+
+   		Framweworks are always built on top existing programming lang. 
+
+   		Programming lang: 
+
+   		Stronger in PL ->  FW just like a tool tip 	
+
+   		Frame Wrok : 
+   				->  Ready made Soltuions 
+   				->  Advanced Solutions over the Programing Lang. 
+   				->  Provide solutions to existing probelms of a PL. 
+
+
+   		Micro Services :  Architecture  -> 
+   					Java, Python , .net appp ... 
+
+
+   		job seeker : 
+
+   			Java + Spring Boot : with out Sb 10 % chances
+
+   				medium -> 
+   					 Concepts 
+   					 Concepts realted which functionlity
+   					 How to use those concepts for small requiremetns 
+
+   		2-3 years : 
+   				medium ++ 
+
+   					 Concepts 
+   					 Concepts realted which functionlity
+   					 How to use those concepts for small requiremetns 
+   					 Debugging -> any issues -> Fix 
+   					 Log analysis
+   					 Security
+
+   		5 + : years 
+   				pro : 	 
+   					 Concepts 
+   					 Concepts realted which functionlity
+   					 How to use those concepts for small requiremetns 
+   					 Debugging -> any issues -> Fix 
+   					 Log analysis
+   					 Security
+   					 customization 
+
+===========================================
+
+			Pre req : 
+
+					core java 
+					advanced java (jdbc + servlets ) : basic - medium 
+
+						 
+
+   	
+
+
+
+
+   		=> Micro Services :  Not a frmework, this a architecture of building an application. 
+   			
+   			TBD :  	Spring, Spring Boot 
+
+
+
+mini : project 
+
+Recordings : life time 
+
+material
+
+class room : material
+
+
+PL vs FW
+
+	
+Spring, Spring Boot : 
+---------------------
+
+		
+
+		Micro Services : 
+			=---------------
+
+			small services : 
+			Please make sure every functionlity as a individual application. 
+
+
+			90 min 
+
+				70-80 mins 
+
+
+Spring FW : 
+----------
+
+	10-15 classes : Spring 
+
+			-> Spring Boot 
+
+						Spring , Spring Boot  (60-70%)
+
+10-15 classes :
+      No need to attend other mdoules 
+
+      Core Module : 
+
+
+
+Spring FW: 
+----------
+
+	readyMade Solutions 
+	better solutions 
+	solutions to exsiting problems. 
+
+Spring FW designed/implemented as module oriented framework. 
+
+what is module?
+ 
+ 			10 modules : 
+
+ 					3 modules : int your application 
+
+
+
+https://docs.spring.io/spring-framework/docs/4.0.x/spring-framework-reference/html/overview.html
+
+
+1. Core Module. 
+
+					Diff Core Java and Adavanced java? 
+
+						Core Java : 
+								syntaxes 
+								basics 
+								fundamentals 
+
+								class 
+								Object 
+						with out core java know, can we learn Adv.. java? 
+							100% no 
+
+						by alone core java , is it possible to create s/w web apps? 
+
+
+
+ => as part of core Module, SFW explainiong How SFW in desgined and how internally it will behave
+ 			-> Principle they used in SFW
+ 			-> Design Pattern they are following on SFW 
+ 			-> Advantages of SFW 
+ 			-> basics and fundamentals of SFW 
+
+
+ 	SFW : 
+ 			SBFW
+
+
+ 	-> Core Module (Most Important)
+ 	-> Spring JDBC 
+ 	-> JPA/ORM : Module (RT App)
+ 	->  Web /MVC Module (RT App)
+ 	-> Security Module
+ 	-> Actuators 
+ 	-> Profiles 
+ 	-> Logging 
+ 	-> Project Build : Maven 
+
+
+
+
+ 	Micro Services: 
+ 	===========
+ 			
+ 			Spring Boot : Spring cloud 
+
+
+ 	Core Module: 
+ 	=============
+
+ 		-> SFW is going take care of Object creation/configuration/Management of instances. 
+ 		-> SFW is provding a feature called as Dependency Injection.
+ 		
+
+
+How it is taking care Object creation/configuration/Management? 
+What is Dependency Injection ? 
+
+
+Dependency Injection:
+======================
+		Dependency + Injection 
+
+		injecting : 
+				injecting virus into body
+				injecting medcine into body
+				injecting ....
+
+
+	-> One Object injected to another Objects, done by SFW. 
+
+
+1st Spring FW Application: 
+--------------------------
+
+
+IOC(Inversion of Control) principle: 
+------------------------------------
+
+		SFW is build with one the principle calles IOC 
+
+		IOC : 
+
+		Inversion : reverse/ opposite etc.. 
+
+		control : under the control/ under management
+
+
+NOTE : Pojo class :  
+
+
+https://www.youtube.com/watch?v=1CJcd57AbfI&t=5s
+
+
+
+Java 	Devloper									SFW 
+			
+-> Create Objects					-> Don't create by writing logic of new 
+
+-> Injecting content/Objects 		-> I will only injecting oBjects 
+
+
+
+SFW is taking control of Object Creation/Configuration & Managemnt.
+SFW is taking care of DI. 
+
+
+IOC(Inversion of Control) principle: 
+-----------------------------------
+
+The Inversion of Control (IoC) principle is a design principle in software engineering that shifts the control of object creation and behavior away from the code using the objects and hands it to an external entity, often a framework or container. 
+
+IoC is fundamental in frameworks that support dependency injection, such as Spring in Java, where the framework manages the lifecycle of objects and their dependencies rather than the application code doing so explicitly.
+
+
+Dependency Injection (DI): DI is one of the most common techniques to achieve IoC. In DI, an object's dependencies are injected into it by an external entity rather than the object creating its own dependencies.
+
+
+Application : 
+==============
+
+
+Address
+ Student 
+
+  	Student{
+
+  		Address; 
+
+  	}
+
+  Creation of Spring Appplication 
+  ===============================
+
+  		No Need to install any software in Computer. 
+
+  		Spring FW -> Always comes a group of jar files. 
+
+  jar file : 
+  -----------
+  		java archive file 
+  		compressing/ Zip
+
+
+  		500 java classes : .java files 
+  		-------------------------
+
+  				executing : .java files / .class files
+
+
+  				share your logic all 500 classes and that should be used by other projects . 
+
+  		https://drive.google.com/file/d/1FnbtP3yqjTN5arlEGeoUHCrIJcdcBgM7/view?usp=drive_link
+
+
+  Spring 2003 : 
+  		version 1
+
+  		Spring 2024 : Spring 6 
+
+  		Spring 6 : 
+
+
+1.. Get Spring files 
+2. create java project 
+3. Identify Spring jar files whihc are  asscoiated to Spring Core Module 
+			
+			
+			
+			spring-beans-5.3.9
+			spring-context-5.3.9
+			spring-core-5.3.9
+			spring-expression-5.3.9
+
+4. Setup class path/build path of the jar files from the step 3. 
+
+	right click on project -> build path -> configure build path
+
+	libraries
+
+	select class path 
+
+->  Spring Project setup complted. 
+
+
+Once classes are created, then we have to provide class information to SFW
+
+Configuration of infromation-> SFW  -> Class -> Creating Object. 
+
+100 % spring FW coding is start . 
+-----------------------------------
+
+
+
+Pre Requisite : 
+---------------
+
+	Annotations in Java 
+	knowledge of Annaotations :
+
+ 100%
+
+ 		XML knowledge : 
+
+
+=============> 
+
+
+
+Configuration:
+----------------
+1. XML Config
+2. Annotation Config
+
+1. XML Config: 
+
+=============
+
+
+
+-> After Impl of Java classes, SFW provided an XML format to configure java classes 
+
+-> XML file: Format , Rules & Regulations 
+
+-> Inside your spring application/project, create an xml file. 
+
+-> spring.xml 
+
+		Address.java ->  
+
+		
+
+
+
+		Note : 
+		-------
+			Please make sure your system connected to internet. 
+
+XML , parent tag
+-> every tag will starting and edning tag. 
+
+
+parent tag : 
+	<beans>  ..... </beans> 
+
+Spring Bean : 
+------------
+	An Object which is created by Spring Conatiner is called as Spring Bean. 
+
+	Efor example : 
+
+		A Class -> 
+				A a1 = new A();
+				A -> SFW -> XML -> a2 : 
+
+
+						 2 Objects : 
+						 a1 	:  Not a Spring Bean 
+						 a2  	: Bean 
+
+
+Configure Address Class: 
+========================
+
+In Java, 		
+		Address addres1 = new Address();
+		addres1: Object Name/ Instance Name/ Refrence Of Object. 
+
+		Address addres2 = new Address();
+		addres2: Object Name/ Instance Name/ Refrence Of Object. 
+
+		address1.method();
+		address2.method();
+
+In Spring, 
+	
+	SFW a XML tag : 
+
+	<bean> : by using child tag of <bean.. >, we are configuring java classes. 
+
+		we have to configure 2 attributes of <bean>
+
+		 id  : Object Name 
+		 class  :  Class Name : <Fully Qualified Class Name> : including package name
+		 	 FQCN :  packagename.className
+		 	 	com.dilipit.Address
+
+
+-> Pass XML file to Spring / IOC Conatiner:
+------------------------------------------
+
+	-> Create Spring Conatiner : 
+
+	->  SFW provides an API , API is set of classes and interfaces. 
+
+	-> Creating an Object for apre defined class ot an implementation of Interfaces is called creating conatiner. 
+
+	SFW : 
+	------
+	by using below 2 interfaces and it's associated impl classes, we are going to create Spring IOC Conatiner. 
+
+			
+			BeanFactory
+			ApplicationContext : 
+
+	-> Create an Object for ApplicationContext, so that conatiner created. 
+
+	-> In Java , For an Interface Object creation is not possible. 
+
+	-> An Interface can hold/refer it's implemented class Object.
+
+			A Interface 
+			 class B implemntes A {
+
+			 }
+			 A a = new B();
+
+
+- > org.springframework.context.support Class FileSystemXmlApplicationContext
+
+
+
+Java : An Object is created, then immediately all instnace varibale are initilized with default values under that Object. 
+
+2 Object : 
+
+-> How many Obejcts Spring will create ? 
+-> many bean objects 
+
+-> DI
+
+
+-> Creating another class Object : 
+---------------------------------
+
+-> Many classes in beans xml 
+
+			Yes define any class 
+
+
+-> Can I create one more Object for Address class (more than one Object for same class)
+
+	Yes 
+
+	Java : 
+
+		Address : 
+			Address a1 = new Address();
+			Address a2 = new Address();
+			Address a1 = new Address();
+
+	-> We can create many objects for a class by unsing spring. 
+		make sure different bean Id is provided: 
+
+-> question : in case If i given same bean Id more than once ? 
+
+		Application , throws an Exception , 
+
+		Exception in thread "main" org.springframework.beans.factory.parsing.BeanDefinitionParsingException: Configuration problem: Bean name 'student1' is already used in this <beans> element
+Offending resource: file [D:\Classes\B1-Spring, Spring Boot-Oct-24\spring-workspace\spring-first-application\spring.xml]
+
+	Ans : no duplicate bean id's allwoed
+
+
+-> Question:  incase I am passing bean id which is not configured in xml file? 
+
+		at that line level we will get an exception 
+
+		Exception in thread "main" org.springframework.beans.factory.NoSuchBeanDefinitionException: No bean named 'address3' available
+-> If I given class name wrong in XML ? 
+		Exception 
+
+Exception in thread "main" org.springframework.beans.factory.CannotLoadBeanClassException: Cannot find class [com.dilipit.Department] for bean with name 'dept1' defined in file [D:\Classes\B1-Spring, Spring Boot-Oct-24\spring-workspace\spring-first-application\spring.xml]; nested exception is java.lang.ClassNotFoundException: com.dilipit.Department
+
+
+
+
+
+
+
+
+
+
+
+
+brush up : 
+
+
+setter methods :
+constructors : 
+
+
+
+
+
+Maven : Build Real time Tool :
+=============================
+
+DI : 
+
+
+
+
+
+Employee{
+	
+	String companyName = "Dilip IT";
+	String InfoemaiId = "diliit@gmail.com";
+	int empId;
+	String empName;
+
+	//methods 
+}
+
+Employee e1 = new Employee();
+
+
+
+-> XML Config 
+-> Create a XML file
+
+-> Process Bean XML file with Spring Conatiner
+
+
+
+Now Incase If I want to configure values for instance varibales for each and every individual Object, what we have to do in Spring? 
+
+
+Employee{
+	
+	private String companyName = "Dilip IT";
+	private String InfoemaiId = "diliit@gmail.com";
+	private int empId;
+	private String empName;
+
+	//setter methods 
+}
+
+e1 : 100, Dilip
+e2 : 150, Suresh
+e3 :  222, Sruthi
+
+Employee e1 = new Employee();
+// public varibale 
+			obj.variname = value; 
+				e1.eid = 100;
+				e1.ename= "Dilip";
+
+// private variable , setter methods 
+			obj.setterMethod(value);
+				e1.setEId(100);
+				e1.setEname("Dilip");
+
+
+is it possible to configure varibale values woth SFW, so that SFW should configure those values when an Object Created. 
+
+By the time, I am getting an Object from Spring Conatiner, data should be configured. 
+
+	Object obj =  container.getBean("e1"); //Bean  id 
+		Employee emp1 = (Employee)obj;
+
+		// e1: 100 dilip
+	Object obj =  container.getBean("e2"); //Bean  id 
+	Employee emp1 = (Employee)obj;
+		// e2  : 150 suresh
+
+
+Emplyee{
+	
+	Address  address;
+
+}
+
+
+
+
+Dependency Injection: 
+---------------------
+
+
+Employee{
+	
+	private String companyName = "Dilip IT";
+	private String InfoemaiId = "diliit@gmail.com";
+	private int empId;
+	private String empName;
+
+	//setter methods 
+}
+
+e1 : 100, Dilip
+e2 : 150, Suresh
+e3 :  222, Sruthi
+
+3 ways: 
+-------
+XML
+1. Setter Injection
+2. Constructor Injection
+
+
+3. Field Injection
+
+Annotation : 3 types 
+
+SFW : 
+-----
+	XML 
+	Annotation
+
+
+1. Setter Injection: 
+---------------------
+	-> Spring Container injects the values via setter methods of those properties.
+
+	Employee{
+
+		eid;
+		ename;
+
+		// 
+	}
+
+==> info to SFW
+	bean id=e1 class=Employee
+		eid = 100
+		ename = Dilip
+
+===> Create an Object : e1 :
+		Spring will check a setter emthod avibale for that eid varibale or not 
+
+		yes, existed 
+			100 value will be passed to setter method -> 
+				e1 -: eid =100
+
+
+=> Setter method are presented for those properties. 
+
+=>setter injection is achived in XML configuration by using <property>  tag
+
+=> <property> : child tag of <bean>
+
+-> attribute : name : variableName 
+
+syntax : 
+-------
+
+
+if no stter methods existed: 
+============================
+
+Exception in thread "main" org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'e1' defined in file [D:\Classes\B1-Spring, Spring Boot-Oct-24\spring-workspace\spring-beans-di\dilipit.xml]: Error setting property values; nested exception is org.springframework.beans.NotWritablePropertyException: Invalid property 'empId' of bean class [com.dilip.it.Employee]: Bean property 'empId' is not writable or has an invalid setter method. Does the parameter type of the setter match the return type of the getter?
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.applyPropertyValues(AbstractAutowireCapableBeanFactory.java:1726)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.populateBean(AbstractAutowireCapableBeanFactory.java:1434)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:601)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:524)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:335)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:234)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:333)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:208)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingletons(DefaultListableBeanFactory.java:944)
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:918)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:583)
+	at org.springframework.context.support.FileSystemXmlApplicationContext.<init>(FileSystemXmlApplicationContext.java:142)
+	at org.springframework.context.support.FileSystemXmlApplicationContext.<init>(FileSystemXmlApplicationContext.java:85)
+	at com.dilip.it.SpringApplication.main(SpringApplication.java:11)
+Caused by: org.springframework.beans.NotWritablePropertyException: Invalid property 'empId' of bean class [com.dilip.it.Employee]: Bean property 'empId' is not writable or has an invalid setter method. Does the parameter type of the setter match the return type of the getter?
+	at org.springframework.beans.BeanWrapperImpl.createNotWritablePropertyException(BeanWrapperImpl.java:243)
+	at org.springframework.beans.AbstractNestablePropertyAccessor.processLocalProperty(AbstractNestablePropertyAccessor.java:432)
+	at org.springframework.beans.AbstractNestablePropertyAccessor.setPropertyValue(AbstractNestablePropertyAccessor.java:278)
+	at org.springframework.beans.AbstractNestablePropertyAccessor.setPropertyValue(AbstractNestablePropertyAccessor.java:266)
+	at org.springframework.beans.AbstractPropertyAccessor.setPropertyValues(AbstractPropertyAccessor.java:104)
+	at org.springframework.beans.AbstractPropertyAccessor.setPropertyValues(AbstractPropertyAccessor.java:79)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.applyPropertyValues(AbstractAutowireCapableBeanFactory.java:1722)
+	... 13 more
+
+
+
+
+
+synatx: 
+-------
+	private varibales 
+
+	setter & getter methods 
+
+	public void set<VariableName>(<datatype>   <varibaleName>){
+
+
+	}
+
+
+
+	int 
+	String 
+	char
+	boolan
+	double
+
+	float, long, short, byte -> Try An Example 
+
+
+	primitive/Wrapper & String -> <property name... value...>
+
+
+	List<?>
+================
+	 ->  Allwoing Duplicates
+	-> in One proertywe are injecting collection of values. 
+
+	child tag for <property> is <list>
+
+		-> <value> is child tag of <list>
+		-> for each value we will define <value> tag. 	
+
+	private List<String> productNames; // iphone16, iphone 16 pro
+	private List<Integer> releaseYears;
+
+new : Operator not wriiten any logic , not created Objects manually.
+you are not calling externally setter methods also to configure data in varibales. 
+
+	Set<?>
+	=============
+	-> Not Allwoing Duplicates
+
+	-> in One proerty, we are injecting collection of values. 
+
+	child tag for <property> is <set>
+
+		-> <value> is child tag of <set>
+		-> for each value we will define <value> tag. 
+
+
+
+	Map<?, ?>
+==============================
+		key-value pairs data
+		<map> child tag. 
+
+			<map>
+				<entry key="iphone15" value="100000" />			
+				<entry key="iphone15pro" value="120000"/>
+				<entry key="iphone16" value="130000"></entry>
+				<entry key="iphone15" value="133333"></entry>
+			</map>
+
+
+primitive/Wrpper Classes, String, List, Set, Map
+
+
+Assignment: 
+==============
+
+		1. Create a bean with all Primitive data types 
+					int id;
+
+		2. Create another Bean with All Wrapper Classes 
+				Integer
+				Character
+		3. Create another Bean 
+				-> List of Double values 
+				-> Set of Character Values
+				-> Map : Name and Mobile Number : String , long
+
+		
+
+
+	Other CLass Object
+
+		Product -> Order 
+
+	Address -> Employee
+
+	
+
+
+	XML : Car with Gears 
+	Annotation : Automatic 
+
+
+	-> Dependnecy Injection always happens in between Bean Objects. 
+
+
+	-> Spring provided an attribute calleds "ref" reference. 
+
+	-> "ref" attribute value is always bean id of dependency Object. 
+
+Question 1????? 
+
+	if we are passing invalid bean Id "ref" value what is happens? 
+
+	NoSuchBeanDefinitionException
+
+	Exception in thread "main" org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'emp1' defined in file [D:\Classes\B1-Spring, Spring Boot-Oct-24\spring-workspace\spring-beans-di\spring-beans.xml]: Cannot resolve reference to bean 'home' while setting bean property 'address'; nested exception is org.springframework.beans.factory.NoSuchBeanDefinitionException: No bean named 'home' available
+
+
+Question: If I am  passing bean id value of other class ? 
+	Employee{
+
+		private Address address;
+	}
+
+	home: bean id : PresentAddress
+
+		bean id is matching, but data type is not matching. 
+
+
+	Exception Comes. 
+
+
+	-> In a Bean, wecan inject more than one dependency bean Objects. 
+
+
+Constructor Injection: 
+----	----------------------
+
+-> Dependencies onjects/values are injected via constructors. 
+
+
+
+WRT : Setter Injection
+
+<property name="id" value="100"></property>
+
+	1. Object will be created 
+	2. Identify the setter method of property
+	3. Values are passed to setter method and value are injected. 
+
+
+-> Class A{
+		
+	A(){
+
+	}
+	A(int x){
+
+	}
+	A(String y){
+
+	}
+
+	methodOne(){
+
+	}
+
+  }
+
+-> calling/executing method:  Create Object -> with that Object then call the method
+
+-> How to execute Constructors? 
+	-> Creating Object-> constructor executed
+
+ Constructors are executed while creating an instance/Object. 
+
+	
+
+Class A{
+		
+
+		int x;
+		String y;
+	A(int x, String y){
+		this.x =x;
+		tjis.y = y;
+	}
+
+  }
+
+
+A a1 = new A();
+A a2 = new A(10);  // Error 
+
+100% all arg values 
+A a3 = new A(10, "Ten");
+
+
+
+
+
+id : 111  name : Dilip   mobile : 8125262702
+
+
+Patient : Bean : Continer 
+
+// Java : setter methods XML : <property>
+
+-> <constructor-arg> is child tag of <bean>
+
+
+Exception in thread "main" org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'patient1' defined in file [D:\Classes\B1-Spring, Spring Boot-Oct-24\spring-workspace\spring-beans-di\spring-beans-di-ci.xml]: Instantiation of bean failed; nested exception is org.springframework.beans.BeanInstantiationException: Failed to instantiate [com.dilip.it.constructor.injection.Patient]: No default constructor found; nested exception is java.lang.NoSuchMethodException: com.dilip.it.constructor.injection.Patient.<init>()
+
+
+setter / constructor injection? 
+
+----------------------
+XML : 
+	<constructor-arg value="8888888"></constructor-arg>
+		<constructor-arg value="333"></constructor-arg>
+		<constructor-arg value="Suresh"></constructor-arg>
+Java: 
+	public Patient(int patientId, String patientName, long mobile) 
+
+	Make sure order in plcae 
+
+
+
+name -> you can try 
+
+		<constructor-arg value="8888888" index="2"></constructor-arg>
+		<constructor-arg value="333" index="0"></constructor-arg>
+		<constructor-arg value="Suresh" index="1"></constructor-arg>
+
+container  follow the index not order 
+
+		public Patient(int patientId, String patientName, long mobile)
+
+		CI : Success 
+
+
+
+-> CI : Values are injected while object creation or after Object creation ? 
+			while, value injected
+			creation + injection : both at atime 
+
+
+-> SI : Values are injected while object creation or after Object creation ?  			after
+
+			1. Object Creation (default constructor) + 
+			2. calling setter method
+
+
+CI ->  Constructor is madatory
+SI ->  Setter Method are Mandatory. 
+
+
+Java : to call other claa method , Object , ObjectName.method 
+
+
+patient4 : bean Object and as well as perform SI with values. 
+is it possible or not? 
+	-> at eh moment , Patient class don't have any setter methods
+	-> No SI 
+
+
+
+
+
+Employee{
+	
+
+}
+
+-> Is it possible to create bean Object or not? 
+Yes
+
+
+
+Employee{
+	
+
+}
+-> SI , CI or Both? Both not pssoible
+
+
+
+Employee{
+	
+	int id;
+
+
+
+}
+
+-> is possible of SI , CI or Both? 
+	Not possible both. 
+
+
+Employee{
+	
+	int id;
+
+	Employee(int id){
+	 this.id =id; 
+	}
+
+}	
+
+
+ -> is possible of SI , CI or Both?  CI
+
+
+
+ Employee{
+	
+	int id;
+
+	Employee(){
+		//initlizing
+	}
+
+}	
+
+ -> is possible of SI , CI or Both?  
+ 	both are not poosible 
+
+
+ Employee{
+	
+	int id;
+
+	Employee(){
+		//initlizing
+	}
+
+	setId(int id){
+	 ....
+	}
+
+}	
+
+ -> is possible of SI , CI or Both?  
+ 	SI
+
+
+
+
+
+ Employee{
+	
+	int id;
+
+	Employee(int id){
+		//initlizing
+	}
+
+	setId(int id){
+	 ....
+	}
+
+}	
+
+ -> is possible of SI , CI or Both? 
+ 		CI 
+ 		No SI : Default constructor is mssing 
+ 
+
+
+
+ Employee{
+	
+	int id;
+
+	Employee(){
+		//initlizing
+	}
+	Employee(int id){
+		//initlizing
+	}
+
+	setId(int id){
+	 ....
+	}
+
+}
+
+ -> is possible of SI , CI or Both? Both
+
+
+List of values: 
+--------------
+
+
+	<bean id = "cart2" class="com.dilip.it.constructor.injection.two.CartItems">
+			<constructor-arg>
+				<list>
+						<value>Laptop</value>
+						<value>Iphone</value>
+						<value>TV</value>
+						<value>Laptop</value>
+				</list>
+			</constructor-arg>
+	</bean>
+
+
+Assignemnt:
+---------------
+
+		Inject Set of values via Constructor 
+
+Map : 
+-------
+
+	<constructor-arg>
+				<map>
+					<entry key="Laptop" value="29999.00"></entry>
+					<entry key="Iphone" value="120000.00"></entry>
+					<entry key="TV" value="44444.99"></entry>
+					<entry key="Laptop" value="70000.00"></entry>
+			  </map>
+			
+			</constructor-arg>
+
+
+
+Injecting other class references : 
+---------------------------------
+injecting another bean Object: 
+
+A
+
+B
+
+
+In B - Inject A objet
+
+B{
+	A a;
+	// setter method 
+	setA(A a){
+
+	}
+}
+
+SI:
+-----
+XMl 
+<bean id=a1 ....A
+
+<bena id=b1
+ <property name="a" ref=a1
+
+
+CI: 
+==
+
+
+B{
+	A a;
+	B(A a){
+
+	}
+	// setter method 
+	setA(A a){
+
+	}
+}
+
+
+XMl 
+<bean id=a1 ....A
+
+<bena id=b1
+ <constructor-arg  ref=a1>
+
+
+-public class Order {
+	
+	private String emailId;
+	private CartItems cartItems;
+}
+
+
+Order depends on CartItems
+
+
+Bean Wiring : 
+=============
+
+Connecting beans each other called as Bean Wiring 
+
+-> we are using "ref" attribute for connecting beans each other manually. 
+
+can we do automatically bean wiring or not? 
+--------------------------------------------
+
+Yes. Auto Wiring : : with out using ref , we can perform bean wiring. 
+
+
+XML config -> 
+
+
+Spring Beans Auto Wiring: 
+------------------------
+
+-> We are configuring beans in a way like dependency objects are automatically injected with out provding ref information. 
+
+
+Spring FW provide an attribute called as "autowire" as part of <bean> tag. 
+
+
+Cart depends on Product. 
+
+Cart want Product Object -> Cart Object level we ahve to enable autowiring 
+
+-> by using autowire attribute, we can inject dependecies of beans auto matically. 
+
+
+-> SFW provides 4 configuration values for autowire attribute:
+
+1. no: autowire="no"
+		No Auto Wiring is allowed, MAnual wiring -> ref attribute 
+
+
+
+2. byName: autowire="byName"
+===============================
+		name : propert/variable Name
+
+	-> based on property name/ variable name of Dependency Class
+
+	-> In this case, Spring Conatiner will idenitfy a bean Object of Dependency
+
+	of Current Bean class, 
+
+	and then dependency bean class property name is matching with bean id of dependency object. 
+
+
+	=> please make sure setters presented. 
+
+	=> Setter Injection 
+
+
+
+
+
+3. byType
+==========
+	
+	type : Data Type 
+-> based on property Type  of Dependency Class, auto wiring will happen. 
+
+	-> In this case, Spring Conatiner will idenitfy a bean Object of Dependency
+based on property Data Type is matching with bean Type of dependency object. 
+
+	=>  0 benas found -> no DI : No Exception
+	=> 1 bean found : DI Success : 
+
+	=> more than 1 bean : DI fail : Exception 
+
+	NoUniqueBeanDefinitionException
+
+	WARNING: Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'college' defined in file [D:\Classes\B1-Spring, Spring Boot-Oct-24\spring-workspace\spring-bean-auto-wiring\spring-beans-auto-wiring-type.xml]: Unsatisfied dependency expressed through bean property 'student'; nested exception is org.springframework.beans.factory.NoUniqueBeanDefinitionException: No qualifying bean of type 'com.dilip.it.beans.wiring.by.type.Student' available: expected single matching bean but found 2: s1,s2
+Exception in thread "main" org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'college' defined in file [D:\Classes\B1-Spring, Spring Boot-Oct-24\spring-workspace\spring-bean-auto-wiring\spring-beans-auto-wiring-type.xml]: Unsatisfied dependency expressed through bean property 'student'; nested exception is org.springframework.beans.factory.NoUniqueBeanDefinitionException: No qualifying bean of type 'com.dilip.it.beans.wiring.by.type.Student' available: expected single matching bean but found 2: s1,s2
+
+	-> byType will work only when we configured one bean per class. 
+
+
+Req: 
+------
+
+more bean Objects s1,s2, but still i have  to achive DI
+					student -> College 
+
+					Solution : autowire=byName
+
+injection is happened via setter / constructor ?  SI 
+
+Conclusion : byName and byType is using 100% SI. 
+
+
+4. constructor
+==============
+
+100% via constructor : CI 
+-> maintain Constructors with dependency Type. 
+
+
+-> DI always happnes via constrcutor 
+-> Conatiner always checks constructor defeind or not with Dependeency Type 
+
+if found, then start process of DI 
+			checking : 
+					any bean Object avilable for that Dependnecy or or not ? 
+
+		found 1 : 
+			patient1#Patient -> passed to Constructor -> DI success
+
+		found 2 (more than one ) : 
+			patient1#Patient -> passed to Constructor -> DI success
+			DI fail : Exception : Ambiguity : patient1, patient2
+			 -> byType behaviour 
+
+
+SFW -> apply the nature of byName
+			
+
+
+
+
+
+if not found : No DI happening : No Exception
+
+
+
+
+
+
+Spring With Annotations: 
+------------------------
+
+XML Config: 
+
+1. Bean Configuration -> Bean Objects 
+2. DI 
+	-> Stter Injection 
+	-> Constrcutor Injection
+	-> Autowiring Modes 
+
+
+=> 
+
+1. Spring Application 
+2. Create Bean 
+
+-> Create a Spring Project : 
+===========================
+
+
+
+	=> Java Project 
+
+
+	=> Downaloded jar files SFW
+
+
+
+	-> jar files to class path 
+
+
+
+Web Application 
+Servlets : servlt jar file
+JDBC  : Oracle : ojdbc.jar
+
+
+
+Maven Build Tool:
+-----------------
+
+
+We should not download any jar files. 
+100% in Java Application : 
+
+	-> Project Management Build tools 
+
+	Maven / Gradle  : 
+
+	Maven : 
+
+java vs python: 
+
+
+	-> Create a Project, Maven project 
+
+
+What is Maven?
+==============
+	Maven is a Poject BUild Management Tools 
+
+BUild :
+
+
+-> create java application 
+
+-> right click on project -> Configure -> Convert Maven 
+
+
+Note : Make Sure Connected 
+
+-> Project is enabled with Maven Functionalities 
+-> pom.xml file 
+
+		pom -> Project Object Model 
+
+	
+	-> As per our project requirement, those jar files information we will configure in side pom.xml file 
+
+	-> 	we have to add jar files information under below tags.   
+  <dependencies>
+  
+  </dependencies> 
+
+-> jar file information is called as Dependency Information 
+
+Spring 6 
+
+ jdbc jar file 
+
+
+
+
+Spring All core mOdule jar file : 
+==================================
+
+ 	<dependencies>
+		<dependency>
+			<groupId>org.springframework</groupId>
+			<artifactId>spring-context</artifactId>
+			<version>6.1.14</version>
+		</dependency>
+	</dependencies>
+
+
+Spring With Annotations: 
+------------------------
+
+
+-> Bean configuration we are doing by using java  Annotations 
+Java based configuration. 
+
+
+-> Classes  :  
+-> Configure Information 
+-> Spring Container 
+-> Conatiner Will create/configure & manages the Bean 
+Objects. 
+
+
+-> Student 
+
+-> XML file ->  bean id class 
+
+-> create an Object 
+
+
+==================================================
+
+
+Create An Application 
+
+-> Created a java class 
+	-> XML id=student1 class=Student
+	-> if it is annotation -> Configuration  class
+
+What is Configuration  class?
+------------------------------
+
+Spring FW given an annotation called @Configuration
+
+-> When we marked a class with @Configuration , then those classes are called Configuration classes. 
+
+Ex: 
+
+
+import org.springframework.context.annotation.Configuration;
+
+@Configuration
+public class SpringBeansConfiguration {
+
+}
+
+-> by using Configuration classes, we will configure bean classes information. 
+
+-> How to configure bean classes information: 
+------------------------------------------------
+		-> XML  : <bean id=student1 class=Student >
+				<bean id=student2 class=Student >
+
+
+
+		new 
+
+-> To define beans of classes in side Configuration classes , Spring provided an annotation called as @Bean.   
+
+-> by using @Bean annotation , we are configuring classes to get beans/objects
+
+ -> @Bean annotation is used at method level. 
+ -> @Bean method  return type should be Bean CLass Type. 
+
+
+XML vs Annotation : change 100%
+
+Execution behaviour ? 
+
+
+-> Create another College : college2 Object and configure values for name and count
+
+		clgName="Abc College";
+		count =500;
+
+
+
+
+TBD : more than one Configuration Class
+		1 config class: bean methods 
+		2 config class : bean method 
+
+		more than onc config class passing to Spring container? 
+		Yes 
+
+		-> if bean id not provide , trhen what will happen? 
+
+		When only bean Object avilable for a class, 
+		more than one bean object for a class 
+
+		DI : 
+		1. Field Injection (Real Time )
+		2. Setter Injection 
+		3. constructor 
+
+
+-> In a configuration class, if we are not annoated a method with @Bean then that method will not be executed by container. 
+
+-> If we are not provided bean id as part of @Bean along wiht Bean method inside a configuration class, what will happen?
+
+		-> Bean method exusted or not?
+				if excuted, any exception comes or not? 
+					if no excpetion -> what is bean Id?
+
+				if not executed, there is nothing do.
+ Ans : Bean method is executed, Bean Object Created 
+ 		what is bean Id? 
+ 		method name taken as Bean Id. 
+
+-> If we provided bena id name as part of @Bean , then conatiner will give prference to name which provided , if not then container will assign method name as bean id.  
+
+
+-> same bean id repeated more than once with @Bean methods? 
+
+	XML : Exception 
+	Annotation : 
+
+		No exception : Container is taking 1st @Bean method into consideration and executed and that object is managed by conatiner
+		and rest of bean methods are ignored. 
+
+-> How many Configuration classes can we write and pass to Container? 
+
+	We can write many configuration classes and we can pass all at a time. 
+
+	2 config classes : 
+		1st :  student1, student2, collge1,collge2
+		2nd : college3
+
+Assignement : 
+============
+Just observe given same bean id in different configuration classes. 
+
+
+
+
+
+Creating Bean with out @Bean Method is possible or not.
+======================================================
+
+
+yes, it's possible. 
+
+
+
+ProductDetails
+	-> Object for ProductDetails 
+
+by using an annotation @Component we can create Object the Object. 
+==============================================================
+
+-> Bean Object created in 2 ways : @Bean , @Component
+
+-1.  Please mark the class which object has to be created by container,  with annotation @Component
+
+org.springframework.stereotype.Component;
+
+
+
+
+Question : Do you know Stereo Type annoatation in Spring? 
+
+
+2. Create a Configuration class and in that configuration class provide an information of Component classes. 
+
+
+100 component classes : 
+
+Here, again spring provided an annotation called as @ComponentScan
+
+@ComponentScan :
+==============
+
+bu using @ComponentScan annoataion we will configure package names of Component CLasses. 
+
+@ComponentScan("com.dilipit.beans")
+
+	Please scan the package called com.dilipit.bean and it's sub packages for the component classes. 
+
+
+	while scanning, found @Component annotated classes, then conatiner immediately creates an Object. 
+
+
+
+Note : 
+-----
+
+When Container created bean Object for component class, then conatiner will check provided any bean id or not, if not then conatiner will assign class names as bean id , class name converted to camel case. 
+
+ProductDetails -> productDetails
+Employee -> employee
+MyStudentsInformation ->  myStudentsInformation 
+
+
+100 java classes : 
+	@Bean Method : 100 methods 
+
+	@Component : 100 classes : add this annotation : 
+
+
+Please scan the package called com.dilipit.bean and it's sub packages for the component classes. 
+
+base package :  com.dilipit.bean
+
+sub packages :  com.dilipit.bean.abc.xyz : true
+		    com.dilipit.abc.xyz : false
+
+
+Question : I want to provide my own bean id for component class? 
+	
+	@Component
+	Student {
+
+
+	} 
+
+	bean id : student
+	bean is : as : student1
+		@Component("student1")
+		Student {
+
+
+		} 
+
+Question : when we are not defined default constructor in a component class, what will happen?  Object Created or not by Spring Conatiner? 
+
+
+Student : 0 param constrcutor: Yes
+		 more than parameter constrcutor : Yes
+
+		 Created
+
+Student : 0 param constrcutor: No
+		 more than parameter constrcutor : Yes
+
+		 Not Created
+
+Exception in thread "main" org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'student1' defined in file [D:\Classes\B1-Spring, Spring Boot-Oct-24\spring-workspace\spring-annotation-component\target\classes\com\dilipit\beans\clg\Student.class]: Unsatisfied dependency expressed through constructor parameter 0: No qualifying bean of type 'int' available: expected at least 1 bean which qualifies as autowire candidate. Dependency annotations: {}
+
+
+Summary : When we annoated a class with @Component then make sure 100% default constructor is avilable. 
+
+
+
+Question :How many bean Objects can we create for a class? 
+
+N :  Many Objects 
+
+Question : If we want to create one more Object of Student class, then what we have to do?  
+
+1 : Component 
+
+for those :  then write a bean method. 
+
+
+Question : Req : 
+=============
+
+For a class, create only one bean Object in container : @Component
+
+
+For a class, create only one bean Object in container with values configuration for the properties. 
+
+	Ex : Student : 100, Dilip, 66.66
+
+	is it possible to achive this Req with @Component? 
+				No : by @Component we can't configure values in bean Object. 
+
+	@Component: Creating a bean Object with default constructor execution. 			Creating an Object always with default values for the properties.
+
+
+
+
+Question : req: 
+
+-> create  bean Objects and every bean object should configure with data. 
+
+10 Students : 
+	@Component : Can we use : No 
+	@Bean methods : 10 : 
+
+
+
+Question :  difference between @Component & @Bean Method. 
+========
+
+User/Developer Defined classes v/s Pre Defined Class 
+
+-> Class impl project : Develoepr : Student, Product 
+-> Pre Defined : String , Exception , ArraysList, : 3rd party libraries 
+
+		jar files : 
+		Hibernate 
+		Lombok
+		jackson API : MVC 
+
+	-> Class : Pre Defined Class : 
+
+	create an Bean Object for a pre defined class ?  Abc.class
+
+	how will you create? 
+
+	@Component : No  : no Source code : 
+	@Bean : yes 
+
+	both? 
+
+	@Bean()
+	public Abc getAbc(){
+		retur new Abc()l
+	}
+	
+-> @Component not possibel to create a bean object for pre-defined class. 
+
+
+Dependency Injection: 
+=====================
+
+-> Injecting bean Object into Another Bean Object
+
+Address{
+	
+}
+
+Student{
+	
+	Address address; 
+
+}
+
+Annotation / Java Based Configuration: 
+
+1. Field/Property level  Injection : 80-90
+
+2. Setter Injection
+3. Construcotr Injection 
+
+
+
+
+1. Field/Property level  Injection 
+===================================
+
+	public class Product{
+
+			//instance varibales / variables / properties / fields
+             int id;
+             String name;
+             double price; 
+          
+
+
+	}
+
+fields = varibales
+
+
+Address{
+	
+}
+
+Student{
+	
+	Address address; 
+
+	Student(Address address){
+	 this.address = address;
+
+	}
+
+	Student(){
+	
+
+	}
+
+	public void setAddress(Addresss address){
+		this.address = address; 
+	}
+
+	// SI : setter method 
+	// CI : injected via Constructor Address into Student Object
+	// FI : DI complted by using fiesl/variable. 
+}
+
+
+DI happens between bean objects only 
+A, B : Beans : Spring 
+
+
+
+
+in Spring to perform DI by Annotations, provide an annotation called as @Autowired
+
+@Autowired : 
+------------
+
+FI, SI & CI 
+
+FI: 
+---
+
+-> Please configure field of Dependency with @Autowired Annotation. 
+
+org.springframework.beans.factory.annotation.Autowired;
+
+
+
+
+Case 1: 
+-------
+
+Configure Address information with Hyderbad and 500072
+
+and then perform FI in Student. 
+
+
+//@Componet
+class Address{
+	
+
+}
+
+@Bean method : Address 
+
+1 Address with data HYd & 500072  -> Student
+
+
+Case 2: 
+-------
+
+Configure 2 Bean Object of Address and then perform FI in Student. 
+
+Depenency Type  :  Address 
+
+2 Dependency Bean Objects : Address : address, addressOne
+===========================================================
+
+1. Student ->  Address address;
+	DI success : address
+
+2. Student ->  Address addressOne;
+	DI success : addressOne	
+
+XML autowire = byName 	
+
+3. Student ->  Address xyz;
+	DI Failed 	
+
+
+WARNING: Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'student': Unsatisfied dependency expressed through field 'xyz': No qualifying bean of type 'com.dilipit.beans.Address' available: expected single matching bean but found 2: address,addressOne
+Exception in thread "main" org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'student': Unsatisfied dependency expressed through field 'xyz': No qualifying bean of type 'com.dilipit.beans.Address' available: expected single matching bean but found 2: address,addressOne
+
+
+
+
+
+
+Case 3: 
+--------
+Configure 1 Bean Object of Address  and then perform FI in Student. 
+
+Depenency Type  :  Address 
+
+1 Dependency Bean Objects : Address : addressOne
+===========================================================
+
+1. Student ->  Address address;
+	DI : Success
+
+2. Student ->  Address addressOne;
+	DI : Success
+
+3. Student ->  Address xyz;
+	DI : Success
+
+XML autowire = byType
+
+
+-> Dependncy is having only one Bean Object -> byType : 
+-> Dependncy is having more than one Bean Object -> byName :
+
+
+Case 4: 
+--------
+
+Configure many Bean Objects for PaymentType  and then perform FI in PaymentGatwway. 
+
+Depenency Type  :  PaymentType 
+
+Dependency Bean Objects : PaymentType : 
+			upiPayment, 
+			creditCardPayment, 
+			debitCardPayment
+====================================================================================
+
+
+PaymentGateway{
+	
+	@Autowired	
+	PaymentType  paymentType; 
+
+}
+
+
+=> Inject upiPayment bean id Object of PaymentType: PaymentGateway
+
+
+
+@Qualifier: 
+-----------
+
+@Qualifier annotation is uded always along with @Autowired 
+
+@Qualifier annotation should be configured with which bean Id Object should be injectd into Dependency. 
+
+-> @Qualifier  : which bean is qualified for DI process. 
+
+	
+	@Qualifier("upiPayment")
+	@Autowired  // Problem came : 
+	private PaymentType paymentType; // upi,cc, dc
+
+
+-> When we have more than one dependency bean Object, then please use @Qulifier with specific bean id , which has to injected along with @Autowired. 
+
+
+
+
+
+
+Case 5: 
+--------
+
+Configure many Bean Objects for PaymentType  and then perform FI in PaymentGatwway. 
+
+Depenency Type  :  PaymentType 
+
+Dependency Bean Objects : PaymentType : 
+			upiPayment, 
+			creditCardPayment, 
+			debitCardPayment
+====================================================================================
+
+@Component
+PaymentGateway{
+	
+	@Autowired	
+	PaymentType  paymentType; 
+
+}
+
+@Component
+PaymentOptions{
+	
+	@Autowired	
+	PaymentType  paymentType; 
+}
+
+
+
+=> Inject upiPayment bean id Object of PaymentType: PaymentGateway
+
+-> Eventhough a dependency bean class is having more than one bean  Object and 
+and trying to DI @Autowired , DI fail
+
+-> to make it succes -> @Qualifier(bean Id ) : DI Sucess
+
+
+-> Eventhough @Qualifier is not given , DI should get success every time whichever bean class using that Dependency Type.: PaymentType 	
+
+
+@Primary: 
+--------
+ by using @Primary annotation, we will define/configure one bean Object as a primary bean Object for a class. 
+
+
+@Primary with this annotation , we are making one bean object as a defult bean object for DI process. 
+
+
+Dependency Bean Objects : PaymentType : 
+			upiPayment :   
+			creditCard : 
+			debitCard :@Primary  
+
+
+
+@Component
+PaymentGateway{
+	
+	@Autowired	
+	PaymentType  paymentType;   // upi
+
+}
+
+===========================
+
+Dependency Bean Objects : PaymentType : 
+			upiPayment :   @Primary 
+			creditCard : 
+			debitCard :
+
+
+
+@Component
+PaymentGateway{
+	
+	@Qualifier("debitCard")
+	@Autowired	
+	PaymentType  paymentType;   // ?  upi/debitCard ? = debitCard
+
+}
+
+-> Spring will give prioroty to @Qualifier. 
+-> @Primiary annotation comes into picture, when no @Qualifier provided while DI . 
+
+
+=> Question : What is the realtion b/w @Autowired , @Qulifier & @Primary?
+
+
+
+
+Spring Boot Application: 
+========================
+
+
+How to Create Spring Boot Appplication: 
+---------------------------------------
+
+
+Setup of Spring Application : Complex 
+
+Get collect all jar files dependencies 
+Compatibity versions : 
+
+
+Spring Boot:
+------------
+
+
+Spring initilizar: 
+-------------------
+
+URL : https://start.spring.io
+
+
+-> by default Spring Boot application is created with Core Module Functionalties.
+
+
+-> import : 
+
+
+root folder : where pom.xml file is located
+
+
+-> Spring Boot : they are provding all required jar files for real time application point of view. 
+
+-> Logging : lg4j.jar 
+
+-> junits : 
+
+1 week time : 
+
+
+Create Project : 
+-------------------
+1-way:
+=======
+
+-> https://start.spring.io/
+
+fill the details 
+if required add dependencies of Spring modules
+
+-> Generate 
+-> ZIP file downaloded
+-> extraxcted 
+-> From Eclipse: : Import -> Maven Project : Select Root folder
+
+-> Finish : 
+
+-> Project is ready in Your eclipse. 
+   -> Coding .....
+
+
+2 -way : 
+-------
+
+
+   Plugin in Eclipse : Add Sts tools plugin 
+
+
+
+STS plugin : 
+-------------
+
+
+https://marketplace.eclipse.org/content/spring-tools-4-aka-spring-tool-suite-4
+
+ Added/Installed Successfully: 
+
+Creating Spring Boot App in eclipse:: 
+-----------------------===============
+
+1. File -> new -> Project -> Spring Boot -> Spring starter
+
+fill the details 
+
+
+
+
+
+
+
+
+
+
+
+3- way : 
+------
+
+Downaloding an IDE called as STS (Spring Tool Suite)
+
+STS = Eclipse + Plugin of STS + features 
+
+
+STS -> Project creation 
+
+STS downalod : https://cdn.spring.io/spring-tools/release/STS4/4.26.0.RELEASE/dist/e4.33/spring-tool-suite-4-4.26.0.RELEASE-e4.33.0-win32.win32.x86_64.zip
+
+extract it : 
+
+simliar to Eclipse : 
+=====================
+
+
+
+
+
+-> Let's understand Spring Boot Application Folder structure:
+-------------------------------------------------------------
+
+
+@SpringBootApplication = 3 combo of 
+  
+  Spring : 
+
+
+  @ComponentScan
+  @Configuration
+
+
+
+
+  @EnableAutoConfiguration : Spring Boot 
+
+
+
+
+Spring Boot Starters : 
+-------------------------
+
+
+spring-boot-starter : default one / main starter
+
+Starter :  Collection of multiple dependencies 
+
+
+
+Coding Core Module : 
+--------------------
+
+Spring Application : 
+===================
+
+
+Student{
+	
+
+}
+
+
+Bean Object : Annoatation : 
+
+
+1. mark student COmponent class
+2. @Configuration class 
+3. @ComponetScan in Configuration 
+4. provide base package name of component classes in @ComponetScan
+
+base package : com.*
+com.apple
+scanned here : Yes 
+
+
+5. Provide information of Config class to Container 
+
+
+Spring Boot : 
+============
+
+1. Mark class as component 
+2. Start Spring Boot application 
+
+
+=> Wherever Spring Boot Application class avilable inside a package, that package we have to make as a base package. 
+
+
+=> creating new packages , make sure the above pakcage is base. 
+
+	com.dilipit.lms
+
+@ComponentScan("com.dilipit.beans")
+@SpringBootApplication
+public class SpringBootFirstApplication {
+
+}
+
+------com.dilipit.lms-----
+
+com.dilipit.lms.controller
+com.dilipit.lms.service
+com.dilipit.lms.entity
+com.dilipit.lms.config
+
+com.dilipit.beans
+ -> this packge should be scanned , what we have to Do. 
+
+ 	@ComponentScan
+
+
+
+-> How to create bean Objects @Componet 
+
+-> more than bean for class : @Componet & @Bean Method 
+
+	@Bean Method
+		Configuration class 
+
+	ex : student : 2 beans
+
+-> Can we create own configuration classes ? 
+	Yes, 
+
+
+
+Question : 
+----------
+	No default constrcutor, @Component => 
+
+
+Access bean Objects from container : 
+===================================
+
+ConfigurableApplicationContext conatiner = SpringApplication.run(SpringBootFirstApplication.class, args);
+		Object obj = conatiner.getBean("student");
+		Student s = (Student) obj;
+		System.out.println( s);
+		
+		System.out.println((Student)conatiner.getBean("student2"));
+
+==================================================================
+
+
+DI : 
+
+Field Injection : 
+================
+
+@Component
+Cart{
+	
+
+}
+
+@Component
+Order{
+		
+	@Autowired
+	Cart cart; 
+
+}
+
+
+
+XML config: 
+------------
+
+1. beans.xml file 
+
+
+resources ->  
+
+
+
+
+Spring Boot : 
+-------------
+
+-> Bean Objects : @Bean / @Component
+-> DI : Field Injection 
+		Uase Cases :  @Autowired / @Qualifier/ @Parimary
+
+-> Setter Injection : 
+---------------------
+
+	XML config -> Annotations 
+
+	-> Class : Product  :@Component / @Bean Method 
+
+
+	-> Class :  Order : Product should be injected. 
+		@Component / @Bean Method 
+
+	Order{
+    
+
+          Product product; 
+
+          @Autowired
+          setProdut(Product product){
+          	this.product = product; 
+          }
+
+	}	
+
+
+	1. Order class should have default constrcuor. 
+	2. Inside Order class, Write a setter method should be defined for the property
+
+
+	@Autowired : Making DI 
+
+
+
+->  Declare @Autowired annotation at setter method level. 
+
+
+
+
+
+
+
+
+-> Constructor Injection: 
+--------------------------
+
+		 -> Constructor with param  
+
+		@Autowired
+
+-> parameterized constructor 
+		
+	XML config -> Annotations 
+
+	-> Class : Product  :@Component / @Bean Method 
+	-> Class :  Order : Product should be injected. 
+		@Component / @Bean Method 
+
+
+	Order{
+
+    		 Product product; 
+    		
+    		Order(Product product){
+    			this product = product; 
+		}
+ 	      
+          setProdut(Product product){
+          	this.product = product; 
+          }
+
+	}
+
+
+
+-> DI with / via Interfaces & Impl Classes
+-------------------------------------------
+
+
+
+@Component  :  to create an Object for a class by Conatiner 
+
+
+
+Case 1: 
+======
+Interface have 0 impl classes 
+
+
+
+Field vehicle in com.dilipit.springboot.interfaces.Garrage required a bean of type 'com.dilipit.springboot.interfaces.Vehicle' that could not be found.
+
+
+Case 2: 
+======
+Interface have 1 impl classes : Car 
+
+
+Car -> Vehicle ->   Garrge
+
+
+Field vehicle in com.dilipit.springboot.interfaces.Garrage required a bean of type 'com.dilipit.springboot.interfaces.Vehicle' that could not be found.
+
+DI : bean Objects 
+
+Car class : Bean Object existed : @Component, @Bean 
+
+
+Verify impl classes of interface vailable or not 
+ 1 : Car : bean Object : 1  : car -> Vehicle
+
+
+
+Case 3: 
+======
+
+one impl but more than one bean Object 
+
+
+ 1 : Car : bean Objects : 2 : car , car2  :  DI fail: 
+
+ To kake success : @Qualifier
+
+
+
+ Case 4: 
+======
+
+more than one impl class and all bean Objects 
+
+Vehicle Interface : Impl classes are : 
+
+ 1 : Car : car   : deafult  : Add @Primary 
+ 1: Bike  : bike
+ 1 : Bus   : bus
+
+ which has to be injected?
+
+ DI fail : 
+
+ @Qualifeir : bean Id : 
+
+ If no qulifeir but DI should get succes with one of the Impl class Object is taken? 
+
+@Primary
+
+
+
+
+
+
+
+ Case 5: 
+======
+
+more than one impl class and all are have more than one bean Objects 
+
+Vehicle Interface : Impl classes are : 
+
+ 2 : Car : car, car2   :  default car2
+ 1: Bike  : bike, bike3
+ 1 : Bus   : bus, bus100
+
+ which has to be injected?
+
+ DI fail : 
+
+ @Qualifeir : bean Id  :  bus100  : DI SUccess : bus100 injected to Garage
+
+ No @Qualifeir : bean Id  :  car2  : DI SUccess : car2 injected to Garage
+
+
+CLass vs Class
+
+
+
+@Value Annotation :
+----------------
+
+DI : primitives and String 
+
+
+
+In Class ,w  when we have primitives and String , how we are configuring the values as prt bean Object creation. 
+
+
+
+class DatabaseConfiguration{
+	
+	int port;
+	String url;
+	String userName;
+	String password;
+
+	double efficiency; // 0.0
+
+}
+
+Bean is created : 1521 , loclahost:152:xe , dilip, dilip
+
+
+@Bean method instead of component class, configured values 
+
+@Value : By using this annotation we can inject values for primitive and String Data Type properties inside a Spring Bean. 
+
+@Value annotation along with proerty i.e. variable level we have to declare with a real value. 
+
+
+
+synatx :  @Value("valueOFProperty")
+
+
+
+Ex: 
+
+@Componet
+class DatabaseConfiguration{
+	
+	@Value("1521")
+	int port;
+
+//XML : property name=port value=1521   -> @Value 
+
+	@Value("loclahost:1521:xe")
+	String url;
+
+	@Value("dilip")
+	String userName;
+
+
+	@Value("dilip")
+	String password;
+
+
+	double efficiency; // 0.0
+
+	//XMl : property name=address ref=addr1  -> @Autowired
+
+
+}
+
+
+
+
+Bean is created : 1521 , loclahost:1521:xe , dilip, dilip
+
+
+
+
+
+
+
+
+
+want 2 bean objects : one with configured values and another with default  values?
+
+1 component with @Value, 1 without @Bean method without configruration of value 
+
+1 component without @Value, 1 with @Bean method with configruration value
+
+
+
+
+Guidelines : 
+
+Configuration data should not be integrated with Java logic. 
+
+Configuration data is maintined individually, and from there we will use values as prt of java logic 
+. 
+
+
+inside application.properties file, we are always configuring data which is commonly being used by all Spring Beans. 
+
+
+application.properties file is called as configuration file. 
+
+
+
+key=value
+
+
+2 types of properties : 
+
+1. user/devloper defined 
+2. pre defined : lang/framework
+
+
+#comments started with #
+// Java 
+
+-> by using @Value annotation, we can inject the values of properties congiguresd in application.properties file. 
+
+Synatx :  @Value("${propertyname}")
+
+ex :  @Value("${db.port.number}")
+
+
+
+
+Assignemnt: 
+------------
+
+Create Component class , which should have all 8 primitive propeties 
+
+1. Go with direct value injection 
+
+
+
+@Value("29")
+byte age;
+
+
+@Value("1990")
+short dobYear;
+
+
+int salary;
+long accountBalance;
+
+double avgOfMarks;
+floast 
+
+@Value("M")
+char gender;
+
+@Value("true")
+boolean areYouHuman: 
+
+
+2. Go with value injection vai configuration 
+
+in application.properties 
+
+@Value("${propertyname}")
+
+
+
+
+TBD : 
+
+
+incase if we wan to override existing configured value in proeties file in a specific bean what we have to do?
+
+@Value setter  & consrtructor example 
+
+
+
+
+
+
+
+-------------------------------
+
+spring.mail.host=smtp.gmail.com
+spring.mail.port=587
+spring.mail.username=<Login User to SMTP server>
+spring.mail.password=<Login password to SMTP server>
+spring.mail.properties.mail.smtp.auth=true
+spring.mail.properties.mail.smtp.starttls.enable=true
+
+
+
+
+
+@Value defining at method level: 
+---------------------------------
+Yes , we can do at method levels 
+
+
+
+-> In a class, FI or SI or CI 
+
+
+Use Case : 
+----------
+@Value("${property-name}")   
+
+
+1. propert-name not existed
+		Bean Creation Filed/ DI Injection Failed 
+
+2. If propert-name existed inject that value or else inject some default value without failing the bean creation/DI. 
+
+		Yes , we can do with default values when property-name not existed. 
+
+		@Value("${property-name:<default-value>}")   
+
+		if(property-name existed){
+			inject value of property
+		}else{
+			inject default-value 
+		}
+
+3. Can we inject more thna one value as a List with @Value? 
+
+
+
+ => 
+ Till now , we are used application.properties file and create dproperties 
+and then we got data into Objects vai @Value 
+
+
+Can we create our own proeties 
+
+
+Adding External properties file : 
+=================================
+
+Yes we can add
+
+@Value we cna inject value sof thos properties. 
+
+
+Spring Conatiner : 
+
+	application.properties , aws-database.properties
+
+
+
+Spring : 
+	-> Configuration Class : @Configuration 
+
+Spring Boot : 
+
+	try : 
+	Assignment : Sol 1 : 
+		-> sepaarte Configuration Class : @Configuration 
+
+		@SpringBootApplication 
+		main method 
+
+		@PropertySource(value = {"aws-database.properties"})
+
+
+Assginment : 
+
+	create 3 extra props 
+
+	and configure and from thise properties file inject values into bean Objexts  
+		@PropertySource(value = {"aws-database.properties", "aws-email.properties"})
+
+
+===============================
+
+
+
+
+
+
+
+Spring Bean Scopes: 
+===================
+
+Scope :   accessibility and visibility 
+======
+
+Bean Scope : 
+----------
+
+Bean : An Object created by Spring Container. 
+
+
+-> When Spring container created a Bean then Spring maintaines a scope functionality for very bean Object. 
+
+-> Scope defines bean Object creation on when conatiner is returning the bean Object.  
+
+
+-> Bean Scope defines life cycle of a bean. 
+
+-> Bean Scope, we can change the nature of Bean Creation and Configuration on every use/return.
+
+
+Speing FW given 5 bean scopes 
+
+1. singleton
+
+		This bean scope is default bean scope. 
+
+		If we are not defined/configured any bean scope then Spring COntainer
+
+		consider that bean scope as default. 
+
+		this scope is taken a refrence from Singleton Design Pattern. 
+
+
+	Whenevr bean scope is singleton, Conatiner will create bean Object only once and same bean Object being used everywhere with that beanId. 
+
+
+How to configure scope value? 
+----------------------------
+
+XML : <bean id=beanId  name=BenaClass  scope=singleton>
+
+@Scope : B y using this annotatio we will configure scope of a bean. 
+
+ 
+ @Scope(value = "singleton")
+
+
+com.dilipit.springboot.beans.Product@282308c3
+com.dilipit.springboot.beans.Product@282308c3
+com.dilipit.springboot.beans.Product@282308c3
+com.dilipit.springboot.beans.Order@5dda14d0
+com.dilipit.springboot.beans.Order@5dda14d0
+com.dilipit.springboot.beans.Product@282308c3
+com.dilipit.springboot.beans.Product@282308c3
+
+
+2. prototype
+
+	 @Scope(value = "prototype")
+
+	 Whenevr bean scope is prototype, Container will create a new bean Object everytime.
+
+
+TBD : 
+Web Module : 
+
+the below scopes are related to web application/web module. 
+
+3. request
+4. session 
+5. application
+
+
+
+6. websocket : Socket Programming 
+
+
+
+
+1. Singleton DP : 
+
+
+
+
+
+
+Spring Bean Life Cycle : 
+=======================
+
+Life Cycle : 
+
+
+ Birth -> ....  -> Death
+
+
+
+ Bean : Object : Created By Container : 
+
+
+
+ 1. Construction : 1 time 
+
+
+ 	
+
+
+ 2. Configuration 
+ 		// DI : SI, FI , CI 
+
+ 		-> Should logic executed / configuration 
+ 	// making DB Connection 
+ 	// making Email Connection 
+
+
+-> On every bean Object creation for a specfifc bean , some logic has to be executed. 
+
+
+
+
+3.  Utilization : 
+
+
+
+
+
+	-> Execute Logic / Remove Configuration :  Calling GC / Releasing Resources : Closing Db connection 
+	Closing Stream Connections
+
+
+4. Desctruction 
+
+
+
+
+Req : 
+
+Email Configuration 
+
+
+Write Class and make sure logic hsould executed everytime bena got created & configured. 
+
+-> add ing life cycle 
+
+
+Email {
+	
+	// get those values from Db dynamically : DB call : dilip@gmail.com, dilip123
+
+	@Value
+	emailid 
+
+	password
+
+	// close : Closing Email Connections 
+
+
+
+}
+
+
+
+Interfaces : 
+
+	InitilizingBean :  Construction  :  afterPropertiesSet()  
+
+		@PostConstruct
+
+
+
+	DisposableBean  : Destruction  :  destroy()
+
+		@PreDestroy
+
+
+
+
+
+
+
+
+
+
+
+Question : Is it possible to execute logic when a bean Object got created? 
+
+life cycle method :  afterPropertiesSet() -> logic 
+
+
+
+
+
+Database Connection Created.....  		Construction  
+Setting userName via setter method... 	SI 
+This is afterPropertiesSet call.. 		life cycle 
+
+
+prototype:
+---------
+
+Database Connection Created..... 
+Setting userName via setter method... 
+This is afterPropertiesSet call.. 
+
+Database Connection Created..... 
+Setting userName via setter method... 
+This is afterPropertiesSet call.. 
+
+
+
+
+Annotation Config: 
+--------------------
+
+we cav use our own method names :  
+
+
+@PostConstrcut
+logicBeanCreation() 
+
+
+
+@PreDestroy
+logicOnBeanDesctrution()
+
+
+
+Can we call life cycle methods more than once for single time bean Object Creatin ?
+
+No
+
+
+
+
+
+
+
+
+
+
+
+Starting Spring Boot Application : 
+--------------------------
+
+How we are starting Spring Boot  -> Mian Method @SpringBootApplication -> Run as Java/Spring Boot 
+
+
+2nd Approach : Command Promppt 
+--------------------------------
+
+
+Go to Spring Boot Application Root Folder : 
+
+Open Command Prompt 
+
+mvn spring-boot:run
+
+
+NOTE : Maven should be configured in Systems. : mvn -version 
+
+
+
+
+
+
+
+
+Runners in Spring Boot /  Spring Boot Runners :
+-----------------------------------------------
+
+	public static void main(String[] args) { 
+
+	Commnadline arguments -> passing values to main method 
+
+	java Student 1 Dilip 100  : String 
+
+
+Runners are executed immediately after SpringApplication#run() is executed. 
+Runners are executed only once automatically. 
+
+
+
+Purpose : 
+
+
+Runners are used to define logic for loading configuration values, properties, some logic executed.  Sedning email , collecting health status of application, checking 3rd party application health status 
+
+run getting exusted , calls Runner classes. 
+
+
+How to Create Runners : 
+----------------------
+
+1. CommandLineRunnner
+2. ApplicationRunner
+
+Interfaces -> abstract methods 
+
+-> If we are created Component classe by implementing any one of above Runner Interface , then that class is called as Spring Boot Runner Class.
+
+-> ABove Runner Interfaces are having abstract method. 
+
+-> Each Runner Interface having a single abstract method. 
+
+-> In Runner class, implemented abstract method is executed always. 
+
+-> Required Logic which has to be executed we have write inside implemented method of Runner Interface. 
+
+
+CommandLineRunner: 
+
+	public void run(String... args) throws Exception;
+
+How many Runners can we add in a SB application? 
+
+Ans : 0 - n 
+
+
+To execute Runners in a specific order , we have to use an annotation calles 
+
+@Order
+
+
+1,2,-10   : -10 ,1,2
+
+
+
+CommndLineRunner vs ApplicationRunner 
+
+
+
+main(String[] args) :  passing values to main method via command line args. 
+
+
+Millions -> 
+
+
+ICICI net banking 
+
+
+
+
+Spring Boot JDBC : 
+-----------------  
+
+finish : 
+
+Pre-Req : Java JDBC API  
+
+
+JDBC vs JPA 
+
+
+Spring Data JPA :  ORM 
+
+10-15
+
+
+JDBC : 
+=====
+
+Java Data Base Connectivity 
+
+Example : 
+
+
+Database : orcale 
+jar file : ojdbc.jar
+
+Start : Programming 
+
+
+
+
+
+
+
+
+Spring Boot JDBC Application Setup : 
+=======================================
+
+
+Database installed: 
+Orcale , Postgres
+
+
+jar file :  Spring JDBC  : pom.xml 
+Downalod jar file : 
+
+Spring Boot :  
+
+
+Starters: 	
+
+Spring Data JDBC 
+Databse driver jar file : Oracle 
+
+Finish : 
+
+
+
+1. Insert data into PRODUCT table 
+
+
+
+
+INSERT INTO PRODUCT values(100,'iphone16',99999);
+ 
+
+
+
+
+JDBC : 
+
+COnfigure Database details: 
+url 
+username
+password 
+
+application.properties : 
+
+	#Database Properties 
+
+	spring.datasource.url=jdbc:oracle:thin:@localhost:1521:orcl
+	spring.datasource.username=c##dilip
+	spring.datasource.password=dilip
+
+
+
+Req : Implmentation 
+===================
+
+INSERT INTO PRODUCT values(101,'iphone16pro',120000);
+
+
+
+
+Spring FW : Provided a pre-defined Bean class
+
+JdbcTemplate : This is pre-defined 
+
+JdbcTemplate : Create Bean 
+
+
+update / select 
+
+
+spring :                         				
+
+Bean Object Manullay 						
+
+JdbcTemplate
+
+Configuration class : Bean method 
+
+DataSourceManager : url,username and passwrd
+
+Pre Defined clAssses: @Bean Method : Bean Object 
+
+
+
+Spring Boot : 
+	Enable Auto Configuration  :  @EnableAutoConfiguration
+
+	jpa , web 
+
+	JDBC module : jdbc jar file are added to application class path.
+	JDBCTemaplte Object by taking url, username and password 
+
+
+
+
+
+Assignment : 
+
+	Update Query: 
+	Delete Query : With Positional Parameters
+
+
+----------------------
+INSERT INTO PRODUCT values(101,'iphone16pro',120000);
+
+
+INSERT INTO PRODUCT values(?,?,?);
+
+
+update(String);
+
+update(String, values); -> 
+
+
+
+Read Operations : 
+
+Select Query Execution: 
+
+
+
+-> what is ResultSet ? 
+
+-> Resultset Object is a non transferable object. 
+
+
+
+Select Query : 
+
+select * from products  :  7 records - 7 Objects -> ArrayList
+
+query(String query, RowMapper<T> mapper):
+	Product{
+		pid
+		pname
+		price	
+	}
+
+query(String query, RowMapper<product> mapper):
+
+select * from product where pid=400
+
+Assingement : 
+
+	String query = "select * FROM PRODUCT where pid=?";
+
+	
+Spring Boot Data JPA: 
+--------------------
+
+JDBC vs JPA 
+
+ORM module  : 
+
+ORM 
+
+JPA vs ORM 
+
+Hibernate
+
+JPA vs Hibernate 
+
+JPA : jakarta/java Persistence API
+
+
+This JPA introduced by Java Language Team 
+
+API :  Set of predefined classes and interfaces. 
+
+JPA :  W.r.to Database Operations 
+
+
+
+
+ORM : Object Relational Mapping 
+
+
+
+JPA : JPA is a specification whoch talking about ORM features & functinalities. 
+
+Specfication : A set of rules, instructions, guidelines to achive some functionlity.
+
+ORM functionlity  
+
+
+JPA is not a 100% implemented solution 
+
+
+
+
+Entity Class :
+--------------
+
+What is an entity class, how to create an entity class? 
+
+1. Simply it is pojo class : Private Variables and setter, getter methods
+
+2. JPA provided a set of annotations  
+
+3.  A class marked with an annotation @Entity is called as Entity class. 
+
+Setup & First Example :
+=========================
+
+DB tbale : CREATE TABLE product(pid NUMBER(5), pname  varchar2(50), price NUMBER(8,2));
+
+1. create Spring Boot Application 
+
+		Spring data JPA 
+		Driver jar 
+2. configure DB properties  : url,username, password
+
+		spring.datasource.url=jdbc:oracle:thin:@localhost:1521:orcl
+		spring.datasource.username=c##dilip
+		spring.datasource.password=dilip 
+
+
+
+
+
+Note : Finished Spring Data repository scanning in 31 ms. Found 0 JPA repository interfaces.
+
+
+Hibernate ORM core version 6.6.2.Final
+
+
+3.  Entity class : 
+		-> Create a class and mark it with @Entity
+
+4.  For which DB table we are creating this Entity class : product
+
+5. Define another annotation at entity class level @Table and configure table name value in this annotation. 
+
+6. Define properties in Entity classes based on cloumns of db table. 
+
+7. Define an annotation @Column on every property like that proeprty is dealing with which column of db table. 
+
+
+......................Entity class creation is complted......................
+
+
+8. For every entity class we have to create a JPA repository. 
+
+What is Reposiory, how to create repository, How Repository is working..... 
+
+Ex : 
+table : user_info  -> Entity CLass -> Repository
+table : product  -> Entity CLass : ProductDetails -> Repository : ...
+
+
+10 tables : 10 entity clas -> 10 Repositories 
+
+
+What is Reposiory & how to create repository?
+-------------------------------------------------
+
+JPA Repositories :  
+
+are pre defined interfaces provided by Spring JPA module. 
+
+2 Repository Interfaces : 
+
+	1. CrudRepository
+	2. JpaRepository
+
+-> We have to create an interface by extending one of the above interfaces. 
+
+
+9. creating JPA repository:  
+
+		Entity CLass : ProductDetails
+JpaRepository<T, ID>
+
+	T : Entity CLass Name
+
+
+
+
+-> in JPA, when we create an entity class, we ahve to make sure one column as Identifier column n/b we have to make one property annoatted with @Id. 
+
+
+
+Caused by: org.hibernate.AnnotationException: Entity 'com.dilipit.springboot.entity.ProductDetails' has no identifier (every '@Entity' class must declare or inherit at least one '@Id'
+
+
+
+		Entity CLass : ProductDetails
+JpaRepository<T, ID>
+
+	T : Entity CLass Name
+	ID :  Data type of Identifier column/property of Entity class. 
+
+JpaRepository<ProductDetails, Integer>
+
+	In generics can we use primitives ? No 
+	in place of primitives we have to use wrapper class 
+
+		double -> Double
+
+
+--------  Repository creation complted...........................
+
+1. Insert product Information into Product Table 
+
+		1111, iphone 16 pro, 120000
+
+
+1. Entity class  : ProductDetails
+2. Repository : ProductDetailsRepository
+
+-> created a bean class. : DatabaseOperations
+
+-> Inject Repository into Your bean class : @Autowired : FI 
+
+-> Making DB operations based on requirement 
+
+-> Repository is having many pre -defined methods to do DB operations. 
+
+
+Are we written any SQL query or not? 
+
+NO : 100% Java(Object Orenteed solution )
+
+
+Add this property : 
+
+spring.jpa.show-sql=true'
+
+This will print quirries in console which are generated by Spring JPA internally.  
+
+
+Hibernate: select pd1_0.pid,pd1_0.pname,pd1_0.price from product pd1_0 where pd1_0.pid=?
+Hibernate: insert into product (pname,price,pid) values (?,?,?)
+
+
+Hibernate : 
+
+
+
+Req : Add User information 
+
+1. Create entity class 
+
+2 insert operations : 0 queries 
+
+
+
+
+
+1. Req : Added 1 record at a time 
+			save()
+
+2. Requirement : Jpa provided a method for adding more than one record. 
+
+		222 mouse 5000
+		223 keyboard 2000
+		225 speaker 4000
+
+			3 Entity Objects -> List of Objects. 
+
+		saveAll();
+
+
+Select/Read Operations: 
+-------------------
+Req :  Details of Products in Product Table: 
+
+		select * from product; // All records 
+
+
+
+CREATE TABLE EMP_DETAILS(emp_id NUMBER(10) primary key, name varchar2(50), age NUMBER(2), salary NUMBER(10,2),
+    city varchar2(30), gender varchar2(10), country varchar2(20)  );
+
+
+
+findAll() : method 
+
+
+
+Assignment: 
+-------------(input from keyboard : scanner )
+
+//Req: get count of records : count()
+
+// Req : Make table name and entity class name same : 
+
+table : Product
+entity class name : Product : Optional of @Table annotation : @Table(name="product")
+
+
+-> if tbale name and entity class name are same , then @Table is Optional that means JPA conside class name as a table name. 
+
+@Entity
+class Product{
+	
+
+}
+
+
+-> same this/rule for columns also. 
+
+
+
+
+Req : 
+======
+	Details of a Employee from Employe Table based on employee id 
+
+		select * from employee where emp_id=?
+
+		employe id  : PK key 
+
+  9 -> 99 : 
+
+  no fo records being returend ?  0 or 1 	
+
+  emp_id : 1 rcord other wise 0 
+
+  based onf city : 
+  	0 or more than 0 
+
+
+  	Hibernate: select ed1_0.emp_id,ed1_0.age,ed1_0.city,ed1_0.country,ed1_0.gender,ed1_0.name,ed1_0.salary from emp_details ed1_0 where ed1_0.emp_id=?
+
+
+EmployeeDetails(employeeId=1, name=One, age=28, salary=30000.0, city=Hyderabad, gender=FEMALE, country=India)
+
+employeeRepository.findById(1l);
+
+findById() -> is always pointed to Identfier column/primary key of table  one enity.
+
+then what about non-identifier columns?
+
+
+non-primary key column ?
+=========================
+
+Emp information based on city 
+
+select * from emp where city=...
+
+
+Csutom/Derived findBy methods:
+------------------------------
+
+-> Define an abstract method inside repository with follwoing instrcutions. 
+
+	1. followed by findBy<EntityClassPropertyName>(DataTypeOfProperty argName);
+
+	Based on which column we are trying get data : city
+
+	@Column(name ="city")
+	private String cityName;
+
+	Note : make sure first character as upper case and then add it to findBy....
+
+				cityName => CityName
+
+			findByCityName(String cityName);
+
+	Whenever we are finding data based on non-primary key column, how many reacords we may get? 
+
+			List<EntityClassName>	findByCityName(String cityName);
+
+	List<EmployeeDetails> findByCityName(String cityName);
+
+
+Hibernate: select ed1_0.emp_id,ed1_0.age,ed1_0.city,ed1_0.country,ed1_0.gender,ed1_0.name,ed1_0.salary from emp_details ed1_0 where ed1_0.city=?
+
+
+
+EmployeeDetails(employeeId=1, name=One, age=28, salary=30000.0, cityName=Hyderabad, gender=FEMALE, country=India)
+EmployeeDetails(employeeId=3, name=Three, age=23, salary=325455.0, cityName=Hyderabad, gender=MALE, country=India)
+EmployeeDetails(employeeId=6, name=Six, age=22, salary=54657.0, cityName=Hyderabad, gender=FEMALE, country=India)
+[2m
+
+
+Req : Get Female employees 
+		
+		gender = female
+
+		gender : PK or not : NO PK 
+
+		we can't use findbYId 
+
+		custom find By : 
+
+Based on Gender : 
+
+			List<EmployeeDetails> findByGender(String gender);
+
+
+Req : Get  employees based on gender and country  
+=============================================
+
+MALE USA
+FEMALE INDIA 
+
+more than one column : AND 
+
+coustom Find By methods : 
+		gender
+		country
+
+	List<EmployeeDetails>	findByGenderAndCountry(String gender , String country);
+
+
+Hibernate: select ed1_0.emp_id,ed1_0.age,ed1_0.city,ed1_0.country,ed1_0.gender,ed1_0.name,ed1_0.salary from emp_details ed1_0 where ed1_0.gender=? and ed1_0.country=?
+
+
+
+EmployeeDetails(employeeId=8, name=Eight, age=45, salary=43543.0, cityName=Newjersy, gender=MALE, country=USA)
+
+
+
+
+
+
+Req : Get  employees based on gender and from a specfic city from specific country  
+==================================================================================
+
+gender
+country
+city
+
+List<EmployeeDetails> findByGenderAndCountryAndCity(String gender, String country, String city);
+
+
+Req : 
+=====================
+
+get employees either they belongs to gender male or city Hyderbad. 
+
+All Male Employees 
+
+Hyderbad : MALE & FEMALE 
+
+
+
+		List<EmployeeDetails> 		findByGenderOrCity(String gender, String city);
+
+
+
+delete & update 
+================
+
+
+delete Operations: 
+------------------
+
+Req:  delete data of an employe by emp Id: 
+emp_id : PK 
+
+		delete : 0 or 1 record will be deleted. 
+
+
+deleteById(1000);
+
+
+Hibernate: select ed1_0.emp_id,ed1_0.age,ed1_0.city,ed1_0.country,ed1_0.gender,ed1_0.name,ed1_0.salary from emp_details ed1_0 where ed1_0.emp_id= 1000
+
+deleteById(5);
+
+Hibernate: select ed1_0.emp_id,ed1_0.age,ed1_0.city,ed1_0.country,ed1_0.gender,ed1_0.name,ed1_0.salary from emp_details ed1_0 where ed1_0.emp_id=?
+
+
+Hibernate: delete from emp_details where emp_id=?
+
+
+DML : insert, update, delete : Transaction Management
+
+Hibernate: select pd1_0.pid,pd1_0.pname,pd1_0.price from product pd1_0 where pd1_0.pid=?
+
+Hibernate: insert into product (pname,price,pid) values (?,?,?)
+
+Product p = new Product();
+p.setPid(100);
+....
+
+repo.save(p);
+
+
+
+Primary Key :  Only 1 record : 
+------------
+100 there is a record 
+ 
+ Hibernate: select pd1_0.pid,pd1_0.pname,pd1_0.price from product pd1_0 where pd1_0.pid=200
+
+   0 record  
+
+   if( 0 record)
+
+   		enable TM -> generate insert query & excute 
+   else{
+
+   	// don't do anyhting. 
+   }
+
+
+Select : Read : chnage in Database 
+
+
+How to delete data based on non-primary key columns:
+-----------------------------------------------------
+
+REQ : delete all employes based on country
+
+derived/cunstom deleteBy/removeBy
+===================================
+
+int deleteByCountry(String country);
+
+
+Exception in thread "main" org.springframework.dao.InvalidDataAccessApiUsageException: No EntityManager with actual transaction available for current thread - cannot reliably process 'remove' call
+
+
+
+Caused by: jakarta.persistence.TransactionRequiredException: No EntityManager with actual transaction available for current thread - cannot reliably process 'remove' call
+
+
+
+@Trnsactional :
+---------------
+
+
+  Open Declaration   jakarta.transaction.Transactional
+
+
+@InterceptorBinding
+@Target(value={TYPE, METHOD})
+@Retention(value=RUNTIME)
+@Inherited
+
+
+
+The jakarta.transaction.Transactional annotation provides the applicationthe ability to declaratively control transaction boundaries on CDI managed beans, aswell as classes defined as managed beans by the Jakarta EE specification, at both the classand method level where method level annotations override those at the class level.
+
+See the Jakarta Enterprise Beans specification for restrictions on the use of @Transactional with Jakarta Enterprise Beans.
+
+This support is provided via an implementation of CDI interceptors that conduct thenecessary suspending, resuming, etc. The Transactional interceptor interposes on business methodinvocations only and not on lifecycle events. Lifecycle methods are invoked in an unspecifiedtransaction context.
+
+If an attempt is made to call any method of the UserTransaction interface from within thescope of a bean or method annotated with @Transactional and a Transactional.TxType other thanNOT_SUPPORTED or NEVER, an IllegalStateException must be thrown. The use of the UserTransactionis allowed within life cycle events. The use of the TransactionSynchronizationRegistry is allowedregardless of any @Transactional annotation.
+
+The Transactional interceptors must have a priority ofInterceptor.Priority.PLATFORM_BEFORE+200.Refer to the Interceptors specification for more details.
+
+The TxType element of the annotation indicates whether a bean method is to be executed withina transaction context. TxType.REQUIRED is the default. 
+
+By default checked exceptions do not result in the transactional interceptor marking thetransaction for rollback and instances of RuntimeException and its subclasses do. This defaultbehavior can be modified by specifying exceptions that result in the interceptor marking thetransaction for rollback and/or exceptions that do not result in rollback.
+
+The rollbackOn element can be set to indicate exceptions that must cause the interceptor to markthe transaction for rollback.
+
+Conversely, the dontRollbackOn element can be set to indicateexceptions that must not cause the interceptor to mark the transaction for rollback.
+
+When a class is specified for either of these elements, the designated behavior applies to subclassesof that class as well. If both elements are specified, dontRollbackOn takes precedence.
+Since:JTA 1.2Version:Jakarta Transactions 2.0
+
+
+Update Operatoins : 
+==================
+
+
+update query : 
+
+Req : update salary of an emp: 
+
+JPA : 
+
+
+-> there is no pre-defined method available for update operation.  
+
+
+-> use save() for update operatrions also. 
+
+		save() -> insert/update operations 
+
+
+updated : 33-44
+Banglore -> Chennai
+
+
+
+Employee Found with emp id : EmployeeDetails(employeeId=2, name=Two, age=44, salary=34455.0, cityName=Banglore, gender=MALE, country=India)
+
+
+Employee salary updated as : EmployeeDetails(employeeId=2, name=Two, age=44, salary=300000.0, cityName=Banglore, gender=MALE, country=India)
+
+
+sent this to save : 2 emp existed ot not : yes : 1 record 
+
+
+CURD Operations : JPA Repository Methods : 0% SQL queries 
+
+
+100 Object solution 
+
+OBject <-> Record 
+
+
+
+
+
+Tables  Generation  : DDL AUTO
+--------------------------------- 
+
+
+
+Backend :  PL <-> DB(tables)
+
+
+1. Created a Table 
+
+SQL : CREATE TABLE EMP_DETAILS(emp_id NUMBER(10) primary key, name varchar2(50), age NUMBER(2), salary NUMBER(10,2),
+    city varchar2(30), gender varchar2(10), country varchar2(20)  );
+
+2. Created an Entity class (based on table information)
+
+
+3. Repo..
+4......
+
+
+vice Versa / reverse eng.. 
+======================
+Spring JPA / Hibernate :
+
+Entity class -> Generate Databse Tables. 
+
+1. Create an Entity class based on Requirement. 
+2. Generate tables automatically by using Entity classes.
+
+
+Not creating tables : 
+
+JPA : generating tables by using Entity class information. 
+
+This is possible in JPA. 
+
+
+1. Entiy class
+2. enable table creation process(JPA creates the table on Database.)
+3. Repo..
+4......
+
+Question : 
+1. Creating Tables -> Writing Entity classes
+2. Create Entity Classes  -> Generating the Tables on DB. 
+
+which is better option / which is being used in REal tiMe apps? 
+
+
+
+
+Req : Store Order information
+
+
+order Id  (unique : PK )
+Email Id 
+no of Items
+name
+contact
+city
+pincode
+amount
+
+1. Entity class by considering above properties 
+
+No Table Existed. 
+
+order_info
+
+
+
+
+ddl auto property : 
+
+it is having 5 values : 
+
+1. none
+2. validate 
+3. update
+4. create
+5. create-drop
+
+spring.jpa.hibernate.ddl-auto=
+
+
+
+
+
+1. none  : this default value for the property. 
+	
+	=> No proprty added
+
+	While Starting Application:  Spring Boot JPA not verifying a table existed or not which we are configured in side Entity class. 
+
+	=> While making DB operaton, then only JPA identifies table existed or not  
+
+	=> table auto generation  not happened. 
+
+	=> MAke call / db operation on table if table not existed we will get an exception 
+
+2. validate  : 
+	=>  proprty added and value validate
+
+	While Starting Application: Spring Boot JPA  verifying a table existed or not which we are configured in side each and every Entity class. 
+
+	if avilable : 
+			Moved to further process  : DB Operations
+
+	if not avilable: 
+			: We will get an exception like table not existed, 
+			but tables are not auto genearted. 
+
+	  
+
+	=> table auto generation  not happened. 
+
+
+3. update  : 
+	=>  proprty added and value update
+
+	While Starting Application: Spring Boot JPA  verifying a table existed or not which we are configured in side each and every Entity class. 
+
+	if avilable : 
+			Moved to further process  : DB Operations
+
+	if not avilable: 
+			table is created and then moved to further opertations. 
+
+	  
+
+	=> table auto generation   happened on missing . 
+
+
+
+Hibernate: create table order_info (ordr_id number(19,0) not null, amount float(53) not null, city varchar2(255 char), contact varchar2(255 char), email varchar2(255 char), name varchar2(255 char), no_of_items number(10,0) not null, pincode number(10,0) not null, primary key (ordr_id))
+
+2024-12-18T10:15:13.568+05:30  INFO 11468 --- [spring-boot-jpa-tables-auto-generate] [           main] j.LocalContainerEntityManagerFactoryBean : Initialized JPA EntityManagerFactory for persistence unit 'default'
+2024-12-18T10:15:14.459+05:30  INFO 11468 --- [spring-boot-jpa-tables-auto-generate] [           main] ringBootJpaTablesAutoGenerateApplication : Started SpringBootJpaTablesAutoGenerateApplication in 137.218 seconds (process running for 137.688)
+*********  Loading ALL Orders *********
+Hibernate: select oi1_0.ordr_id,oi1_0.amount,oi1_0.city,oi1_0.contact,oi1_0.email,oi1_0.name,oi1_0.no_of_items,oi1_0.pincode from order_info oi1_0
+
+
+
+DB : 
+lower cases
+every Word Separted by _ 
+
+noOfItems : 3 words 
+
+
+4. create :  
+
+	=>  proprty added and value create
+
+	While Starting Application: Spring Boot JPA drop the tables of entity classes and creates again. 
+
+		-> FOr JPA, it doen't matter table existed or not : 
+
+				order_info : existed 200 rcords -> drop -> create
+
+				product_info : drop -> not existed : Create
+
+		-> fresh tables are created.  
+
+
+		-> Every time for every entity class tables are created. 
+
+5. create-drop:  
+
+	=>  proprty added and value create
+
+	While Starting Application: Spring Boot JPA drop the tables of entity classes and creates again. 
+
+		-> FOr JPA, it doesn't matter table existed or not : 
+
+				order_info : existed 200 rcords -> drop -> create
+
+				product_info : drop -> not existed : Create
+
+		-> fresh tables are created.  
+
+
+		-> Every time for every entity class tables are created. 
+
+		-> DB operations 
+
+		-> Stopping your application : stoppoing 
+
+				droped also
+		-> start -> table created -> operations -> tables are dropped. 
+
+Hibernate: drop table order_info cascade constraints
+Hibernate: create table order_info (amount float(53) not null, no_of_items number(10,0) not null, pincode number(10,0) not null, ordr_id number(19,0) not null, city varchar2(255 char), contact varchar2(255 char), email varchar2(255 char), name varchar2(255 char), primary key (ordr_id))
+2024-12-18T10:31:33.904+05:30  INFO 19236 --- [spring-boot-jpa-tables-auto-generate] [           main] j.LocalContainerEntityManagerFactoryBean : Initialized JPA EntityManagerFactory for persistence unit 'default'
+2024-12-18T10:31:34.448+05:30  INFO 19236 --- [spring-boot-jpa-tables-auto-generate] [           main] ringBootJpaTablesAutoGenerateApplication : Started SpringBootJpaTablesAutoGenerateApplication in 5.186 seconds (process running for 5.685)
+*********  Loading ALL Orders *********
+Hibernate: select oi1_0.ordr_id,oi1_0.amount,oi1_0.city,oi1_0.contact,oi1_0.email,oi1_0.name,oi1_0.no_of_items,oi1_0.pincode from order_info oi1_0
+2024-12-18T10:31:34.725+05:30  INFO 19236 --- [spring-boot-jpa-tables-auto-generate] [ionShutdownHook] j.LocalContainerEntityManagerFactoryBean : Closing JPA EntityManagerFactory for persistence unit 'default'
+Hibernate: drop table order_info cascade constraints
+
+
+
+
+
+
+
+Real time projects : 
+
+--------------------
+
+
+No one touch this property : very dangerous property. 
+
+Value : none 
+
+evaluate : taking longer time to starter time 
+
+update : evaluation + creation ?+ operations 
+
+create : 
+
+table 1 year :  20k records 
+
+entity class -> create/create-drop-> 2ok rcords gone 
+
+
+-> Tbale care created by devlopers ot table are genarted by JPA 
+
+-> awlays by developers by writing manual SQL querires : DDL  
+
+create : fired 
+
+
+create tables SQL -> write entiy classes ; 
+
+
+
+
+
+JPA -< CRUD : 
+
+Sorting / Paginations 
+
+
+2 Repos :
+
+1. JpaRepository
+2. CrudRepository
+
+Interfaces : 
+	use either one of them : 
+
+
+ JPA Repository : SUpports : Sorting & Pagination operations 
+
+
+ What is Sorting? 
+===================
+
+Arranging Data in an order 
+
+	3,434,565,668672,24,5,456 : Un sorted Data 
+
+	Ascending Order 	: 	low -> high : 3,5,24,434,456...
+	Descending Order :  high -> low : 668672, 565, 456...
+
+1. Sort Data based on Emp Id : 
+	
+	findAll(Sort.by("employeeId"));
+
+	Hibernate: select ed1_0.emp_id,ed1_0.age,ed1_0.city,ed1_0.country,ed1_0.gender,ed1_0.name,ed1_0.salary from emp_details ed1_0 order by ed1_0.emp_id
+
+1. Sort Data based on Emp Id and in descending order: 
+
+
+	findAll(Sort.by(Direction.DESC, "employeeId"));
+
+	Hibernate: select ed1_0.emp_id,ed1_0.age,ed1_0.city,ed1_0.country,ed1_0.gender,ed1_0.name,ed1_0.salary from emp_details ed1_0 order by ed1_0.emp_id desc
+
+1. Sort Data based on city : 
+
+	.findAll(Sort.by("cityName"));
+
+
+	Hibernate: select ed1_0.emp_id,ed1_0.age,ed1_0.city,ed1_0.country,ed1_0.gender,ed1_0.name,ed1_0.salary from emp_details ed1_0 order by ed1_0.city
+
+
+1. Sort Data based on city and age : desc order: 
+
+	.findAll(Sort.by(Direction.DESC, "cityName","age"));
+
+	Hibernate: select ed1_0.emp_id,ed1_0.age,ed1_0.city,ed1_0.country,ed1_0.gender,ed1_0.name,ed1_0.salary from emp_details ed1_0 order by ed1_0.city desc,ed1_0.age desc
+
+
+Pagination: 
+------------
+	Pagination is a concept of segregating larger data into smaller sets for displaying on our s/w app. web pages. 
+
+
+Pageable.ofSize(5): 
+===================
+
+	This method gives us first set number of records in the table based on number provided. 
+
+	Req : 
+	please get first 50 records from a table 
+
+
+
+	Hibernate: select ed1_0.emp_id,ed1_0.age,ed1_0.city,ed1_0.country,ed1_0.gender,ed1_0.name,ed1_0.salary from emp_details ed1_0 offset ? rows fetch first ? rows only
+Hibernate: select count(ed1_0.emp_id) from emp_details ed1_0
+
+
+
+PageRequest.of(pageNo, recrodsPerPage)):
+=========================================
+
+Hibernate: select ed1_0.emp_id,ed1_0.age,ed1_0.city,ed1_0.country,ed1_0.gender,ed1_0.name,ed1_0.salary from emp_details ed1_0 offset ? rows fetch first ? rows only
+
+Hibernate: select count(ed1_0.emp_id) from emp_details ed1_0
+
+
+index starts : from : 0  i.e. page number starts from : 0 
+
+
+Pagination + Sorting: 
+=======================
+
+
+PageRequest.of(pageNo, recrodsPerPage, Sort.by("employeeId"))
+
+
+		Sorting -> Pagination 
+
+
+Hibernate: select ed1_0.emp_id,ed1_0.age,ed1_0.city,ed1_0.country,ed1_0.gender,ed1_0.name,ed1_0.salary from emp_details ed1_0 order by ed1_0.emp_id offset ? rows fetch first ? rows only
+
+
+Hibernate: select count(ed1_0.emp_id) from emp_details ed1_0
+
+
+Pagination + Sorting + Direction: 
+================================
+
+PageRequest.of(pageNo, recrodsPerPage, Sort.by(Direction.DESC,"employeeId"))
+
+
+Native SQL query execution:
+---------------------------
+
+	
+	Original 
+
+	SELECT * FROM EMP_DETAILS ed WHERE CITY ='Hyderabad'
+
+
+	I want to execute : Native SQL query 
+
+	JPA : JPQL  : Java Persistence Query Lang. 
+
+		JPQL -> write JPQL query -> Not an SQL query -> Not a Native SQL query 
+
+
+
+NAtive SQL :
+------------ 
+
+	Req : 	SELECT * FROM EMP_DETAILS 
+
+Rules : 
+
+	1. We have to create an abstract method inside Repository Interface. 
+
+	2. Define return type of an entity class 
+
+	
+
+
+@Query :  by using this annotation we are configuring required SQL query to be executed. 
+	
+	3. On top of abstract method define @Query Annotation. 
+
+
+	@Query : having 2 mandatory params 
+
+		value
+		nativeQuery
+
+	value : String : Query
+
+	nativeQuery : true/false
+
+	default value for nativeQuery property is : false => JPQL query
+
+
+	1. SQL Query(SQL Lang) -> Native Query 
+	2. JPQL Query(JPQL Lang)
+
+		nativeQuery : true -> JPA underdtand given query in SQL Lang. 
+
+				SQL Query -> DB 
+
+		nativeQuery : false -> JPA underdtand given query is not SQL Lang i.e. 						JPQL query 
+
+				JPQL query -> SQL Query -> DB 
+
+
+
+
+req 2 : 
+=====
+	JDBC : 	SELECT * FROM EMP_DETAILS ed WHERE CITY =? 
+
+	JPA : 
+		1. Indexed Query Parameters
+		2. Named Query Parameters
+
+	1. Indexed Query Parameters
+	============================
+
+			SELECT * FROM EMP_DETAILS ed WHERE CITY =---
+
+	Index Page : 
+	
+		page no -> Concept 		
+
+
+		1. Indexed Query params are defined with follwoing syntax : 
+
+			?<indexNumber>
+
+		Note : Index starts from 1
+
+		SELECT * FROM EMP_DETAILS ed WHERE CITY = ?1
+
+
+=>  We have  to define method parameters as part of abstract method. 
+
+=> How many Parameters ? depnds on Indexed Query params count
+
+=> what is Data Type for method param? 	
+
+
+SELECT * FROM EMP_DETAILS ed  WHERE COUNTRY =?1  AND GENDER =?2
+
+
+=> When we have more than one index parameters in query, make sure order of method parametes is same w.r.to column value.
+
+
+
+DML : insert , delete , update :
+
+
+
+2. Named Query Parameters
+===========================
+	
+	=> At Column values level we will define named parameters by follwoing below syntax. 
+
+	syntax :    
+					:parameterName
+
+
+Indexed Query :    SELECT * FROM EMP_DETAILS ed WHERE CITY = ?1
+
+Named Query :    SELECT * FROM EMP_DETAILS ed WHERE CITY = :cityName
+
+
+
+Indexed Query :	SELECT * FROM EMP_DETAILS ed  WHERE cntry = ?1  AND GENDER = ?2
+
+Named Query :	SELECT * FROM EMP_DETAILS ed  WHERE cntry = :countryName  AND 					GENDER = :gender   
+
+Req : 
+Get Employees info belings to a particualr city and whose age is less than given value. 
+
+
+   SELECT * FROM EMP_DETAILS WHERE CITY = ...... AND age < .....
+
+
+Indexed :  SELECT * FROM EMP_DETAILS WHERE CITY =  ?1 AND age < ?2
+Named :  	SELECT * FROM EMP_DETAILS WHERE CITY =  :city  AND age < :age
+
+
+@Param :  Annotation to bind method parameters to a query via a named parameter.
+
+
+
+Select Querires : DQL 
+
+
+
+DML Queries : 
+
+	insert : table : 
+	delete
+	update 
+
+
+
+
+insert data of an employee : 
+
+------------------------------
+
+Native SQL qury : 
+
+
+INSERT  INTO EMP_DETAILS  values(1000,'Dilip',33,33333,'Hyderbad','MALE','India')
+
+
+Indexed : 
+
+INSERT  INTO EMP_DETAILS  values(?1,?2,?3,?4,?5,?6,?7)
+
+
+Named : 
+
+INSERT  INTO EMP_DETAILS  values(:id,:name,:age,:salary,:city,:gender,:gender)
+
+@Param
+
+
+
+DML Queries , @Modifying annotation aloing with @Query annotation. 
+
+
+
+
+SQL Vs JPQL : 
+============
+
+JPQL: 
+=====
+
+Java/Jakarta Persistence Query Language. 
+
+provided by JPA.
+
+
+
+Get Employees infromation : belongs to particular country: 
+
+SQL : select * from <table-name> where <column-name> = ....
+
+	select * from emp_details where country = ....
+
+	* -> all columns 
+
+	individual columns 
+		select id, name, age from emp_details where country = ....
+
+		select e.id, e.name, e.age from emp_details e where e.country = ....
+
+please use associated entity class and properties. 
+
+table ->  entity class
+
+
+JPQL :  java specific : Object : References: 
+
+		Student s = new Student();
+
+
+	EmployeeDetails : Entity Class Name	
+
+
+	JPQL :  select  e  from EmployeeDetails e
+
+	 select ed1_0.emp_id,ed1_0.age,ed1_0.city,ed1_0.country,ed1_0.gender,ed1_0.name,ed1_0.salary from emp_details ed1_0
+
+	All coumns :  reference 
+
+	specific columns : JPQL
+
+		name, gender, age
+
+	JPQL : select  x.employeeId, x.name,x.gender,x.age  from EmployeeDetails x
+	SQL : SELECT emp_id,name,age,gender FROM EMP_DETAILS
+
+
+	SQL : select * from USER_INFORMATION
+	JPQL : select  u from UserInformation u
+
+
+
+
+
+passing dynamic values to JPQL query : 
+--------------------------------------
+
+		Employes based on city
+
+SQl : SELECT * FROM EMP_DETAILS WHERE CITY = 'Hyderabad'
+
+Index : SELECT * FROM EMP_DETAILS WHERE CITY = ?1
+
+Named : SELECT * FROM EMP_DETAILS WHERE CITY = :cityName -> @Param
+
+
+
+	@Column(name ="city")
+	private String cityName;
+
+
+JPQL : 
+Indexed :  SELECT e FROM EmployeeDetails e WHERE cityName = ?1
+
+Named : 	SELECT e FROM EmployeeDetails e WHERE cityName = :cityName  -> @Param
+
+
+Hibernate: select ed1_0.emp_id,ed1_0.age,ed1_0.city,ed1_0.country,ed1_0.gender,ed1_0.name,ed1_0.salary from emp_details ed1_0 where ed1_0.city=?
+
+
+Hibernate: select ed1_0.emp_id,ed1_0.age,ed1_0.city,ed1_0.country,ed1_0.gender,ed1_0.name,ed1_0.salary from emp_details ed1_0 where ed1_0.city=?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Generated Values in JPA : 
+---------------------------
+
+@GeneratedValue
+
+-> Generate values in multiple ways 
+	Auto Increment 
+	Sequence 
+
+strategy : specify how PK values are generated either by using auto incrent/ sequence 
+
+
+Provides for the specification of generation strategies for thevalues of primary keys.
+
+GenerationType : enum 
+
+5 strategy :
+====================
+AUTO
+IDENTITY
+SEQUENCE
+TABLE
+UUID
+
+@GeneratedValue : if we are not provided "strategy", internally by default JPA considers strategy as AUTO. 
+
+	@GeneratedValue(strategy = GenerationType.AUTO) 
+		is same as 
+	@GeneratedValue
+
+
+1. jakarta.persistence.GenerationType.AUTO
+
+
+Indicates that the persistence provider should pick an appropriate strategy for the particular database. The AUTO generation strategy may expect a database resource to exist, or it may attempt to create one. A vendor may provide documentation on how to create such resources in the event that it does not support schema generation or cannot create the schema resource at runtime.
+
+
+Hibernate: create sequence order_information_seq start with 1 increment by 50
+
+Hibernate: create table order_information (price float(53) not null, 
+order_id number(19,0) not null, time_of_order timestamp(6), email_id varchar2(255 char), name varchar2(255 char), primary key (order_id))
+
+Oracle :  sequence
+
+
+Hibernate: select order_information_seq.nextval from dual
+
+Hibernate: insert into order_information (email_id,name,price,time_of_order,order_id) values (?,?,?,?,?)
+
+Order Genearted SUccessfully. Please find Order Details : 
+OrderInformation(orderId=1, emailId=dilip@gmail.com, name=Dilip Sinbgh, price=3333.0, timeOfOrder=2025-01-02T10:08:45.785655800)
+
+
+
+IDENTITY : 
+---------
+
+Scratch : creating the tables SQL (sequence, Auto Increment) and the entiy classes. 
+
+
+
+Hibernate: create table order_information (price float(53) not null, order_id number(19,0) generated by default as identity, time_of_order timestamp(6), email_id varchar2(255 char), name varchar2(255 char), primary key (order_id))
+
+
+Hibernate: insert into order_information (email_id,name,price,time_of_order,order_id) values (?,?,?,?,default)
+Order Genearted SUccessfully. Please find Order Details : 
+13
+
+
+
+SEQUENCE: 
+---------
+
+Column values are auto generated by using sequence. 
+
+100% sequence 
+
+
+Hibernate: create sequence order_information_seq start with 1 increment by 50
+
+
+Hibernate: create table order_information (price float(53) not null, order_id number(19,0) not null, time_of_order timestamp(6), email_id varchar2(255 char), name varchar2(255 char), primary key (order_id))
+
+
+TABLE : 
+-------
+
+JPA is using an extra intermediate table for generating unique values.  
+
+
+
+Hibernate: create table hibernate_sequences (next_val number(19,0), sequence_name varchar2(255 char) not null, primary key (sequence_name))
+
+Hibernate: insert into hibernate_sequences(sequence_name, next_val) values ('default',0)
+
+Hibernate: create table order_information (price float(53) not null, order_id number(19,0) not null, time_of_order timestamp(6), email_id varchar2(255 char), name varchar2(255 char), primary key (order_id))
+
+
+
+UUID : 
+======
+Universal Unique Identifier
+
+-> 10-15 years : 
+
+-> Users are incresed : 
+
+instagram : Billions Users : -> Their activites -> 
+photos, reels, etc.. 
+
+data is being DB : 
+
+how many photos : Billions: 
+
+
+ 1
+ 2
+ 3
+ 4
+ 5
+ 6
+ 7
+
+ numeric values range 8475745673587654654686 -> duplicate values 
+
+ UUID -> data is being used in m any of large scale application. 
+
+
+ PK FK -> UUID data type : databases: UUID : no possibility of duplicate values generated. 
+
+ long : Numeric values 
+
+ UUID : String
+
+
+
+Hibernate: create table order_information (price float(53) not null, time_of_order timestamp(6), order_id raw(16) not null, email_id varchar2(255 char), name varchar2(255 char), primary key (order_id))
+
+
+Hibernate: create table order_information (price float(53) not null, time_of_order timestamp(6), email_id varchar2(255 char), name varchar2(255 char), order_id varchar2(255 char) not null, primary key (order_id))
+
+
+=====================================
+
+
+@SequenceGenerator: 
+
+generator
+
+@SequenceGenerator(name = "swiggy_ordr_id_seq", sequenceName = "abc_seq")
+	@GeneratedValue(strategy = GenerationType.SEQUENCE, generator = "swiggy_ordr_id_seq")
+	private Long orderId;
+
+
+
+Developer : 
+We have to give our sequence name 
+initial value 
+incremtnal value 
+
+20000
+20002
+20004
+
+Yes : Congigure these value : JPA will create a sequence with above informatinon and same one will be used for generating values of PK column. 
+
+
+Hibernate: create sequence swiggy_ordr_id_seq start with 1 increment by 50
+
+Hibernate: create table order_information (price float(53) not null, order_id number(19,0) not null, time_of_order timestamp(6), email_id varchar2(255 char), name varchar2(255 char), primary key (order_id))
+
+
+Hibernate: create sequence swiggy_ordr_id_seq start with 20000 increment by 2
+Hibernate: create table order_information (price float(53) not null, order_id number(19,0) not null, time_of_order timestamp(6), email_id varchar2(255 char), name varchar2(255 char), primary key (order_id))
+
+
+
+
+Assignment : 
+
+	1. Create a seequence by SQL script on dB 
+		starting value : 100000
+		incremented : 5
+
+		abc_seq
+
+	2. NOTE : don't enable ddl-auto property	i.e. dll-auto = none 
+
+	3. Create a table SQL scripts : PK column 
+
+	4. PK column use above created sequence 
+
+	---- JPA 
+
+	5. Entity class based on above information 
+
+
+
+
+
+
+===============
+
+@TableGenerator  & generator
+-----------------------------
+
+
+Developer : 
+We have to give our Table name 
+
+
+Yes : Congigure these value : JPA will create a table with above informatinon and same one will be used for generating values of PK column. 
+
+	@TableGenerator(name = "swiggy_order",table = "swiggy_order_id_table", pkColumnName = "ordr_id"
+			, initialValue = 33333, valueColumnName = "ordr_last_value")
+	@GeneratedValue(strategy = GenerationType.TABLE, generator = "swiggy_order")
+
+
+Hibernate: create table swiggy_order_id_table (ordr_last_value number(19,0), ordr_id varchar2(255 char) not null, primary key (ordr_id))
+
+
+
+JPA Entity Realtionships / Entity mappings : 
+===========================================
+
+SQL : 
+----
+
+A -> B
+
+1. 1:1 (One to One )   :   Associated to A table, in B only one record is allowed. 
+2. 1:N (One to Many )  :   Associated to A table, in B many records are allowed. 
+
+
+3. N:1 (Many to One )  :  Associated to A table have more than one records and  in 				        B only  one record  allowed for all respective A records  
+4. N:N (Many to Many) :  
+		Associated to A table have more than one records and  in 			B also  have many records  allowed for all respective A records 
+
+
+
+
+1. 1:1 (One to One )   :
+=========================
+
+@OneToOne
+
+Employee -> Address 
+-> EMp exist then Address should be added. 
+
+-> Employee (Address)  ->   Java Object  -> DB ->   EMP(id, name,salary)
+	
+
+								Address (aid, city pincode, country)
+
+
+Hibernate: create table addr_dtl (address_id number(10,0) not null, pincode number(10,0) not null, city varchar2(255 char), country varchar2(255 char), primary key (address_id))
+Hibernate: create table emp_dtl (address_address_id number(10,0) unique, emp_id number(19,0) not null, gender varchar2(255 char), name varchar2(255 char), primary key (emp_id))
+Hibernate: alter table emp_dtl add constraint FK3n9hcj33cw24jixc0bjmwkek2 foreign key (address_address_id) references addr_dtl
+
+
+
+Hibernate: insert into addr_dtl (city,country,pincode,address_id) values (?,?,?,default)
+Hibernate: insert into emp_dtl (address_address_id,gender,name,emp_id) values (?,?,?,?)
+
+
+cascade : 
+=========
+
+cascade : 
+
+Dilip cascaded work to Person Xyz 
+
+ALL   ->  Insert,update,delete , read 
+
+		Main Tbale : update -> child : Update 
+		Main Table : remove -> child : Remove 
+
+
+
+PERSIST -> 
+	@OneToOne(cascade = CascadeType.PERSIST)  // save : insert 
+
+		Main Table : insert -> child : insert 
+		Main Table : update -> child : No Action 
+		Main Table : remove -> child : No Action 
+
+
+
+MERGE
+
+		@OneToOne(cascade = CascadeType.MERGE)  // update :  
+
+		Main Table : insert -> child : No Action 
+		Main Table : update -> child : Update
+		Main Table : remove -> child : No Action 
+
+
+REMOVE   : parent level delete -> delet from child also for delete operation
+
+		
+		Main Table : Remove -> sam eoperation perfomed on CHild tbale for that sepcific assciated records. 
+
+		update : Main Table : 
+
+		Main Table : update -> cascading not happeingin to :  child : Update
+
+DETACH
+REFRESH
+
+
+
+Hibernate: select e1_0.emp_id,a1_0.address_id,a1_0.city,a1_0.country,a1_0.pincode,e1_0.gender,e1_0.name from emp_dtl e1_0 left join addr_dtl a1_0 on a1_0.address_id=e1_0.address_address_id where e1_0.emp_id=?
+
+
+Hibernate: delete from emp_dtl where emp_id=?
+Hibernate: delete from addr_dtl where address_id=?
+
+
+
+@JoinColumn : 
+-------------
+
+Specifies a column for joining an entity association or element collection. If the JoinColumn annotation itself is defaulted, a single join column is assumed and the default values apply. 
+
+
+Hibernate: select e1_0.emp_id,a1_0.address_id,a1_0.city,a1_0.country,a1_0.pincode,e1_0.gender,e1_0.name from emp_dtl e1_0 left join addr_dtl a1_0 on a1_0.address_id=e1_0.eid_aid where e1_0.emp_id=?
+
+
+Employee Infirmation : Employee(empId=6677, name=Alice, gender=FEMALE, address=Address(addressId=14, city=BANG, pincode=99880, country=India))
+
+
+1 : 1 
+
+  	13
+100 -> 14
+
+
+One to Many : 
+-------------
+
+1 : N
+
+
+
+1 day task : 
+
+4 yrs : 
+
+coding -> Copy & paste (90%) -> Renames -> Test -> 1 hr 
+
+
+@OneToMany : 
+
+
+Hibernate: create table addr_dtl (address_id number(10,0) not null, pincode number(10,0) not null, user_id_addr_id number(19,0), city varchar2(255 char), country varchar2(255 char), primary key (address_id))
+
+Hibernate: create table user_dtl (user_id number(19,0) not null, gender varchar2(255 char), name varchar2(255 char), primary key (user_id))
+
+Hibernate: alter table addr_dtl add constraint FKio8w00vbow7ybfxs7thvl042q foreign key (user_id_addr_id) references user_dtl
+
+
+Hibernate: select ud1_0.user_id,ud1_0.gender,ud1_0.name,a1_0.user_id_addr_id,a1_0.address_id,a1_0.city,a1_0.country,a1_0.pincode from user_dtl ud1_0 left join addr_dtl a1_0 on ud1_0.user_id=a1_0.user_id_addr_id where ud1_0.user_id=?
+
+
+UserDetails(userId=8125262702, name=Dilip Singh, gender=MALE, address=[Address(addressId=1, city=HYD, pincode=500072, country=INDIA), Address(addressId=2, city=BANG, pincode=444455, country=INDIA), Address(addressId=3, city=CHENNAI, pincode=667777, country=INDIA)])
+
+
+
+
+
+Many to One : 
+============
+
+	A   ->     B 
+
+	A Table :    B Table 
+
+	1 			10
+
+	2
+	3
+	4
+	5
+
+@ManyToOne: 
+
+
+Hibernate: create table dpet_dtl (dept_id number(10,0) not null, dept_name varchar2(255 char), primary key (dept_id))
+
+Hibernate: create table emp_dtl (emp_dept_id number(10,0), emp_id number(10,0) not null, gender varchar2(255 char), name varchar2(255 char), primary key (emp_id))
+
+Hibernate: alter table emp_dtl add constraint FKont3fy8q2k7l25me2ta1ocyqt foreign key (emp_dept_id) references dpet_dtl
+[2m
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Many to Many : 
+==============
+
+@ManyToMany
+
+
+
+Spring Web/MVC : REST API Services 
+==================================
+
+Fullstack :
+
+		: Web Applications :
+
+REQuest Response 
+ FE + BE + DB
+
+ Angular/React + Spring Boot WEB+ JPA + Orcale/MySql
+
+  REST API Services 
+
+  FE -> BE
+  	API intg : REST API 
+
+  Micro Services : 
+
+  	Service  -> Service  : REST API
+
+
+Web Module : 
+---------
+
+
+1. Spring Web : Starter 
+
+New Annotations : 
+
+Hello world 
+
+MVC architecture 
+
+internal workflow of Spring Web Module 
+
+
+What IS MVC ? 
+--------------
+
+M : Model
+V : View 
+C : Controller
+
+
+MVC is not a concept of any PL.
+
+MVC is about an architecture for implementing web applications.  
+
+
+By fiollowing MVC arch. we are creating web applications.
+
+
+
+ ->  View layer communication (Sedning Req + Rece Response) should be happened with Controller layer. 
+
+ What is Controller ? 
+ ---------------------
+ -> (From the backend ) Controller is the first primary contact for any incoming request from View Layer(Front End)
+
+ -> A java class which can handle a HTTP request coming from View Layer is called as Controller. 
+
+
+ -> public  class UserManagement {
+
+ 		// logic 
+ 	}
+
+ : Class -> is it Controller class  ? No 
+
+
+Servlet : 
+/login
+public class UserManagement extends HttpServlet{
+	
+	doGet(HttpServletRequest, HttpServletResponse){
+
+		// Read data from Request Object 
+		userName
+		password
+
+
+		Sedning data to Db: JDBC 
+		Connection 
+		Statement Object 
+		SQL query : select * from  users where user and password
+
+
+	}
+
+}
+
+
+/login -> Req -> BE -> Read data from Request
+
+	  mobileNo =	req.getparameter(mobile)
+	password =	req.getparameter(password)
+
+Verify this information avilable exactly same or not in databse 
+
+
+-> Never write logic is which is reposnible for communicating with database as part of controller class. 
+
+
+-> Write always logic which is responsible for Database communication and any business logic also as part of Model Layer/Class.
+
+
+-> Controller class is always orchstrates incoming request and outgoing reponse responses. 
+
+what is Model Class/Layer: 
+--------------------------
+
+
+-> Model layer 
+ Write always logic which is responsible for Database communication and any business logic also as part of Model Layer/Class.
+
+-> Model layer is acting a mediator in b/w controller later and database
+
+-> Model class is responsible for getting data from Controller layer and as well if any calculations, validations, implemenations required those has to be done and as well Model class should communcate with database.  
+
+/login
+public class UserManagement extends HttpServlet{
+	
+	doGet(HttpServletRequest, HttpServletResponse){
+
+		// Read data from Request Object 
+		userName
+		password
+
+		//pass data to Model layer 
+		UserOperations ops = new  UserOperations();
+		response =   ops.userLogin(userName, );
+
+
+		//response back to View layer
+	}
+
+}
+
+Creating a new class : Model class 
+
+public UserOperations{
+
+	//repo
+		
+		// logic 
+	userLogin(String userName, String password){
+		Sedning data to Db: JDBC 
+		Connection 
+		Statement Object 
+		SQL query : select * from  users where user and password
+	}
+}
+
+
+
+
+Business Logic :  calculations, validations, implemenations 
+
+
+Swiggy : 
+		1 kg sweets = 200
+		1 biraynai = 350
+		2 snakcs = 550
+
+	Req :  Make payment -> 
+			sum of above values : 200+350+550 = total amount
+			Discount coupon : 100
+			afterdicamount = total maount - discount
+			+ GST -> 5% 
+
+			1000+50 = 1050
+			+ delivery : applied : swiigy : membership 
+			20
+			1050+2
+controller : taking data from view and passing same data to model
+			
+				DB : insert that orders : Order Id : payment suucess 
+
+	controller : 	pass response back to view 			
+
+
+1st example: 
+------------
+
+Req : 
+
+Send A Welcome Message to User as Response. 
+
+
+USer SignUp
+	
+	First Name : 
+	Last Name : 
+	User Name : 
+	pAssword   : 
+
+User login: 
+	User Name 
+	Password: 
+
+
+
+-> Create SB web application : web + jpa 
+
+
+Logs/Loggers
+
+-> Tomcat : 8080 : default port number 
+localhost:8080
+->  8888
+localhost:8888
+
+Changing Default port Number of Serevr: 
+----------------------------------------
+
+server.port=8888
+
+
+2025-01-16T09:43:46.855+05:30  INFO 1960 --- [instagram] [           main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 8888 (http) with context path '/'
+
+
+Context path: 
+------------
+
+Servlets : context path : project Name 
+	
+	instagram : localhost:8080/instagram/.....
+			localhost:8080/instagram/singin
+			localhost:8080/instagram/signup
+			localhost:8080/instagram/hello
+
+SB App : by default No Contenxt path: /
+
+	instagram : localhost:8080/....
+			localhost:8080/....
+
+	/hello
+
+	localhost:8080/hello
+
+
+
+
+configuring context path : 
+-------------------------
+
+server.servlet.context-path=/instagram
+
+
+[2m2025-01-16T09:52:14.672+05:30[0;39m [32m INFO[0;39m [35m2624[0;39m [2m--- [instagram] [           main] [0;39m[36mo.s.b.w.embedded.tomcat.TomcatWebServer [0;39m [2m:[0;39m Tomcat started on port 8888 (http) with context path '/instagram'
+==================================================================
+jsp :  by default jsp is not supported by integrated tomcat server. 
+
+ integrated tomcat server : jsp : 
+ add a dependency of tomcat jsp 
+
+add in pom.xml file : 
+
+ 	<dependency>
+    		<groupId>org.apache.tomcat.embed</groupId>
+    		<artifactId>tomcat-embed-jasper</artifactId>
+	</dependency>
+
+-> Adding UI folders: 
+--------------------
+
+
+add new folders to exsiting project : 
+
+
+1. add webapp folder inside src/main : webapp
+2. Add another folder : WEB-INF inside webapp
+3. another folder also inside WEB-INF : view
+
+
+
+View Resolver: InternalResourceViewResolver: 
+-----------------------------------------------
+
+Resolving names of views. 
+
+
+#View Resolver Properties 
+spring.mvc.view.prefix=/WEB-INF/view/
+spring.mvc.view.suffix=.jsp
+
+
+view name : welcome : 
+
+ex: /WEB-INF/abcd/welcome.jsp
+
+
+Controller : 
+----------
+what is a controller ? 
+---------------------
+
+-> A class which is annoated with @Controller is called as Controller class.
+
+-> Inside controller class, we are going define Request Mapping methods w.r.to URI patterns and Http Methods. 
+
+
+
+
+
+
+
+@Controller
+@GetMapping 
+@RequestMapping
+
+
+
+
+URL : 
+
+Tomcat started on port 8888 (http) with context path '/instagram'
+localhost:8888/instagram/welcome
+
+Tomcat started on port 8888 (http) with context path '/'
+localhost:8888/welcome
+
+Synatx : Forming URL's : 
+
+hostname:portnumber/contextpath/.......
+
+Tomcat started on port 8888 (http) with context path '/'
+
+
+hostname:portnumber/.......
+
+
+Request URL:
+http://localhost:8888/reset/password
+
+
+Request Method:
+GET
+
+
+
+
+Http Methods : 
+--------------
+
+GET :  
+POST
+PUT 
+DELETE
+
+
+
+
+
+
+localhost:8888/welcome
+localhost:8888/register
+
+sent request : localhost:8888/welcome : GET
+
+sent request : localhost:8888/register : GET
+
+
+Scan All Controller Classes : Collects information of all Requet Mapping Methods: 
+
+1 Controller class: 2 Req Mapping methods 
+
+10 Controller Classes : From All 10 contoller clases , all mapping methods information is collected and stored in cache memory. 
+
+
+Handler Mappings: 
+=================
+
+HomeController: 
+
+	@RequestMapping(method = RequestMethod.GET, path="/welcome") 
+	: public String sayWelcome() {
+
+
+	@RequestMapping(method = RequestMethod.POST, path="/register")
+	public String userRegister() {
+
+UserConroller: 
+
+	@RequestMapping(method = RequestMethod.PUT, path="/update")
+	public String userUpdate() {
+
+
+locahost:8888/login : GET    ->   BE : SB MVC 
+
+			to handle this request : is there any mapping method avilable or not. 
+
+			not found : Response : Not Found : Error 
+
+locahost:8888/welcome : GET    -> Request Reaches:   BE : SB MVC 
+		
+			to handle this request : is there any mapping method avilable or not. 
+
+			found : class : HomeController : 
+					method : public String sayWelcome()
+
+			it will start executing this method 
+
+
+locahost:8888/hello : GET    ->   BE : SB MVC 
+
+			Error
+
+
+
+
+Internal work Flow of Spring Web Module : 
+-------------------------------------------
+DispatcherServlet
+RequestHandlers
+
+

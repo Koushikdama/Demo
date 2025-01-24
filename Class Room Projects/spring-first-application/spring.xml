@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="
+        http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
+
+	<!-- Address class Information -->
+
+	<!-- address1 : Object Name : bean Id -->
+
+	<!-- Address addres1 = new Address(); -->
+
+
+	<bean id="address1" class="com.dilipit.Address">
+	</bean>
+
+	<!-- Student -->
+
+	<bean id="student1" class="com.dilipit.Student"></bean>
+
+	<bean id="dept1" class="com.dilipit.dept.Department"></bean>
+
+	<!-- 2nd Object for Address -->
+
+	<bean id="address2" class="com.dilipit.Address"></bean>
+
+<!-- 2nd Object of Student class -->
+	<bean id="student2" class="com.dilipit.Student"></bean>
+
+
+
+
+
+
+
+
+</beans>
+

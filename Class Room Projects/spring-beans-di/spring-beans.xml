@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="
+        http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
+
+
+	<!-- Address Configuration -->
+	<bean id="office" class="com.dilip.it.setter.injection.Address">
+		<property name="pincode" value="500072"></property>
+		<property name="city" value="Hyderbad"></property>
+		<property name="country" value="India"></property>
+	</bean>
+
+	<bean id="home" class="com.dilip.it.setter.injection.Address">
+		<property name="pincode" value="522410"></property>
+		<property name="city" value="Guntur"></property>
+		<property name="country" value="India"></property>
+	</bean>
+
+	<bean id="local" class="com.dilip.it.setter.injection.PresentAddress"></bean>
+	
+	<!-- Employee Bean Config -->
+	<bean id="emp1" class="com.dilip.it.setter.injection.Employee">
+		<property name="id" value="100"></property>
+		<property name="name" value="Dilip"></property>
+		<property name="salary" value="100000.00"></property>
+		
+		<!-- Address : Data type   -->
+		<!-- bean id of ANother Bean Object  -->
+		<property name="address" ref="home" ></property>
+		<property name="presentAddress" ref="local" ></property>
+		
+	</bean>
+	
+	
+
+
+</beans>
+

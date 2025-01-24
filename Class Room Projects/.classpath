@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="college/src"/>
+	<classpathentry kind="src" path="spring-annotation-component/src"/>
+	<classpathentry kind="src" path="spring-annotation-configuration/src"/>
+	<classpathentry kind="src" path="spring-annotation-configuration-two/src"/>
+	<classpathentry kind="src" path="spring-bean-auto-wiring/src"/>
+	<classpathentry kind="src" path="spring-bean-life-cycle/src/main/java"/>
+	<classpathentry kind="src" path="spring-bean-life-cycle/src/test/java"/>
+	<classpathentry kind="src" path="spring-bean-scopes/src/main/java"/>
+	<classpathentry kind="src" path="spring-bean-scopes/src/test/java"/>
+	<classpathentry kind="src" path="spring-beans-di/src"/>
+	<classpathentry kind="src" path="spring-boot-constructor-injection/src/main/java"/>
+	<classpathentry kind="src" path="spring-boot-constructor-injection/src/test/java"/>
+	<classpathentry kind="src" path="spring-boot-di-interfacse/src/main/java"/>
+	<classpathentry kind="src" path="spring-boot-di-interfacse/src/test/java"/>
+	<classpathentry kind="src" path="spring-boot-field-di/src/main/java"/>
+	<classpathentry kind="src" path="spring-boot-field-di/src/test/java"/>
+	<classpathentry kind="src" path="spring-boot-first-application/src/main/java"/>
+	<classpathentry kind="src" path="spring-boot-first-application/src/test/java"/>
+	<classpathentry kind="src" path="spring-boot-jdbc-application/src/main/java"/>
+	<classpathentry kind="src" path="spring-boot-jdbc-application/src/test/java"/>
+	<classpathentry kind="src" path="spring-boot-jpa-application/src/main/java"/>
+	<classpathentry kind="src" path="spring-boot-jpa-application/src/test/java"/>
+	<classpathentry kind="src" path="spring-boot-jpa-app-two/src/main/java"/>
+	<classpathentry kind="src" path="spring-boot-jpa-app-two/src/test/java"/>
+	<classpathentry kind="src" path="spring-boot-jpa-generated-values/src/main/java"/>
+	<classpathentry kind="src" path="spring-boot-jpa-generated-values/src/test/java"/>
+	<classpathentry kind="src" path="spring-boot-jpa-jpql-queries/src/main/java"/>
+	<classpathentry kind="src" path="spring-boot-jpa-jpql-queries/src/test/java"/>
+	<classpathentry kind="src" path="spring-boot-jpa-many-many/src/main/java"/>
+	<classpathentry kind="src" path="spring-boot-jpa-many-many/src/test/java"/>
+	<classpathentry kind="src" path="spring-boot-jpa-one-many-mapping/src/main/java"/>
+	<classpathentry kind="src" path="spring-boot-jpa-one-many-mapping/src/test/java"/>
+	<classpathentry kind="src" path="spring-boot-jpa-one-one-mapping/src/main/java"/>
+	<classpathentry kind="src" path="spring-boot-jpa-one-one-mapping/src/test/java"/>
+	<classpathentry kind="src" path="spring-boot-jpa-sorting-pagination/src/main/java"/>
+	<classpathentry kind="src" path="spring-boot-jpa-sorting-pagination/src/test/java"/>
+	<classpathentry kind="src" path="spring-boot-jpa-tables-auto-generate/src/main/java"/>
+	<classpathentry kind="src" path="spring-boot-jpa-tables-auto-generate/src/test/java"/>
+	<classpathentry kind="src" path="spring-boot-native-sql-queries/src/main/java"/>
+	<classpathentry kind="src" path="spring-boot-native-sql-queries/src/test/java"/>
+	<classpathentry kind="src" path="spring-boot-runners/src/main/java"/>
+	<classpathentry kind="src" path="spring-boot-runners/src/test/java"/>
+	<classpathentry kind="src" path="spring-boot-setter-injection/src/main/java"/>
+	<classpathentry kind="src" path="spring-boot-setter-injection/src/test/java"/>
+	<classpathentry kind="src" path="spring-di-fiels-injection-annotation/src"/>
+	<classpathentry kind="src" path="spring-first-application/src"/>
+	<classpathentry kind="src" path="spring-qualifier-annotation/src"/>
+	<classpathentry kind="src" path="Spring-value-annotation/src/main/java"/>
+	<classpathentry kind="src" path="Spring-value-annotation/src/test/java"/>
+	<classpathentry kind="src" path="Web Module Projects/instagram/src/main/java"/>
+	<classpathentry kind="src" path="Web Module Projects/instagram/src/test/java"/>
+	<classpathentry kind="src" path="Web Module Projects/spring-boot-webapp/src/main/java"/>
+	<classpathentry kind="src" path="Web Module Projects/spring-boot-webapp/src/test/java"/>
+	<classpathentry kind="lib" path="Web Module Projects/spring-boot-webapp/gradle/wrapper/gradle-wrapper.jar"/>
+	<classpathentry kind="output" path="Spring-value-annotation/target/classes"/>
+</classpath>

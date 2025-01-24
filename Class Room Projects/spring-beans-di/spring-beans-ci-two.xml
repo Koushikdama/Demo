@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="
+        http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
+
+
+
+	<bean id = "cart1" class="com.dilip.it.constructor.injection.two.CartItems"></bean>
+	
+	<!-- inject List item Names  -->
+	<bean id = "cart2" class="com.dilip.it.constructor.injection.two.CartItems">
+			<constructor-arg>
+				<list>
+						<value>Laptop</value>
+						<value>Iphone</value>
+						<value>TV</value>
+						<value>Laptop</value>
+				</list>
+			</constructor-arg>
+	</bean>
+	
+	<!-- inject name, item names , item prices   -->
+	<bean id = "cart3" class="com.dilip.it.constructor.injection.two.CartItems">
+			
+			<constructor-arg value="Dilip"></constructor-arg>
+			
+			<constructor-arg>
+				<list>
+						<value>Laptop</value>
+						<value>Iphone</value>
+						<value>TV</value>
+						<value>Laptop</value>
+				</list>
+			</constructor-arg>
+			
+			<constructor-arg>
+				<map>
+					<entry key="Laptop" value="29999.00"></entry>
+					<entry key="Iphone" value="120000.00"></entry>
+					<entry key="TV" value="44444.99"></entry>
+					<entry key="Laptop" value="70000.00"></entry>
+			  </map>
+			
+			</constructor-arg>
+	</bean>
+	
+	<!-- cart3 into Order Object -->
+	<bean id="order1" class="com.dilip.it.constructor.injection.two.Order">
+		<constructor-arg value="dilip@gmail.com"></constructor-arg>
+		<constructor-arg  ref="cart3"></constructor-arg>
+	
+	</bean>
+	
+	
+	
+	
+
+</beans>

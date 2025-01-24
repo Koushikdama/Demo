@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="
+        http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
+
+
+	<bean id="patient1"	class="com.dilip.it.constructor.injection.Patient">
+	</bean>
+
+	<bean id="patient2"	class="com.dilip.it.constructor.injection.Patient">
+		<!--222, Dilip, 4567890 -->
+		<constructor-arg value="222"></constructor-arg>
+		<constructor-arg value="Dilip"></constructor-arg>
+	</bean>
+
+	<bean id="patient3"	class="com.dilip.it.constructor.injection.Patient">
+		<!--222, Dilip, 4567890 -->
+		<!-- public Patient(int patientId, String patientName, long mobile) -->
+		<constructor-arg value="8888888" index="2"></constructor-arg>
+
+		<constructor-arg value="Suresh" index="1"></constructor-arg>
+		<constructor-arg value="333" index="0"></constructor-arg>
+	</bean>
+	<!-- setter injection -->
+	<bean id="patient4"	class="com.dilip.it.constructor.injection.Patient">
+		<property name="patientId" value="666" ></property>
+	</bean>
+
+</beans>
+

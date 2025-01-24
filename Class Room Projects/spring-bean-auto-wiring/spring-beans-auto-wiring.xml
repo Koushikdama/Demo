@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="
+        http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
+
+
+<!-- product -->
+	<bean id="product" class="com.dilip.it.beans.wiring.Product">
+			<constructor-arg value="111"></constructor-arg>
+			<constructor-arg value="iphone16"></constructor-arg>
+			<constructor-arg value="999999"></constructor-arg>
+	</bean>
+	
+	<bean id="product2" class="com.dilip.it.beans.wiring.Product">
+			<constructor-arg value="222"></constructor-arg>
+			<constructor-arg value="iphone16pro"></constructor-arg>
+			<constructor-arg value="120000"></constructor-arg>
+	</bean>
+	
+	<bean id="infromtion" class="com.dilip.it.beans.wiring.Information"></bean>
+
+		<!-- inject Product bean Object -->
+	<bean id="cart" class="com.dilip.it.beans.wiring.Cart"   autowire="byName"> 
+		
+			
+	</bean>
+	
+	<bean id="order" class="com.dilip.it.beans.wiring.Order" autowire="byName">
+	
+	
+	</bean>
+	
+	
+
+
+</beans>
+

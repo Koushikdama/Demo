@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="
+        http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
+
+
+<bean id="patient1" class="com.dilip.it.beans.wiring.constructor.Patient" ></bean>
+
+<bean id="patient2" class="com.dilip.it.beans.wiring.constructor.Patient" ></bean>
+
+<bean id="patient3" class="com.dilip.it.beans.wiring.constructor.Patient" ></bean>
+
+<bean id="p1" class="com.dilip.it.beans.wiring.constructor.Patient" ></bean>
+
+<bean id="abc" class="com.dilip.it.beans.wiring.constructor.Hospital" autowire="constructor">
+
+</bean>
+
+
+</beans>
+

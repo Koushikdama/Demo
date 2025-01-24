@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="
+        http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
+
+
+	<!-- Employee Class e1 -->
+	<bean id="e1" class="com.dilip.it.Employee">
+		<!-- setter injection below values -->
+		<property name="empId" value="100"></property>
+		<property name="empName" value="Dilip"></property>
+	</bean>
+
+	<!-- Product 1 information is adding -->
+	<bean id="product1" class=" com.dilip.it.ProductInformation">
+		<property name="productId" value="1000"></property>
+		<property name="productName" value="iphone 16"></property>
+		<property name="price" value="100000"></property>
+		<property name="isExpired" value="false"></property>
+		<property name="inStock" value="N"></property>
+	</bean>
+
+	<bean id="product2" class="com.dilip.it.ProductInformation">
+		<property name="productId" value="9999999"></property>
+		<property name="productName" value="iphone 16 Pro"></property>
+		<property name="price" value="120000"></property>
+		<property name="isExpired" value="false"></property>
+		<property name="inStock" value="Y"></property>
+	</bean>
+
+	<bean id="order1" class="com.dilip.it.OrderInformation">
+		<property name="orderId" value="12345"></property>
+		<property name="productNames">
+			<list>
+				<value>Iphone15</value>
+				<value>Iphone15 Pro</value>
+				<value>Iphone15 Pro Max</value>
+				<value>Iphone16</value>
+				<value>Iphone16 Pro</value>
+				<value>Iphone17</value>
+				<value>Iphone17</value>
+				<value>Iphone17</value>
+			</list>
+		</property>
+
+		<property name="releaseYears">
+			<list>
+				<value>2016</value>
+				<value>2017</value>
+				<value>2018</value>
+				<value>2019</value>
+			</list>
+		</property>
+
+	</bean>
+
+
+
+	<bean id="order2" class="com.dilip.it.OrderInformation">
+		<property name="orderId" value="12355"></property>
+		<!-- email Id's -->
+		<property name="emailIds">
+			<set>
+				<value>diliP@gmail.com</value>
+				<value>info@gmail.com</value>
+				<value>info@gmail.com</value>
+			</set>
+		</property>
+
+		<property name="productsAndPrices">
+			<!-- map : key-value -->
+			<map>
+				<entry key="iphone15" value="100000" />			
+				<entry key="iphone15pro" value="120000"/>
+				<entry key="iphone16" value="130000"></entry>
+				<entry key="iphone15" value="133333"></entry>
+			</map>
+
+		</property>
+
+	</bean>
+
+
+</beans>
+
